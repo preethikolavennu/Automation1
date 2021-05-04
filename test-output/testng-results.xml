@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="8" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="480461" started-at="2021-05-02T02:02:31Z" finished-at="2021-05-02T02:10:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="480461" started-at="2021-05-02T02:02:31Z" finished-at="2021-05-02T02:10:32Z">
+      <class name="bln.test.automation.wordpressAPI.WordPressAPITestScripts">
+        <test-method status="PASS" signature="createReportFile()[pri:0, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="createReportFile" is-config="true" duration-ms="16" started-at="2021-05-02T02:02:31Z" finished-at="2021-05-02T02:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReportFile -->
+        <test-method status="PASS" signature="parseData()[pri:0, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="parseData" is-config="true" duration-ms="0" started-at="2021-05-02T02:02:31Z" finished-at="2021-05-02T02:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parseData -->
+        <test-method status="PASS" signature="initializeDriver(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="initializeDriver" is-config="true" duration-ms="11273" started-at="2021-05-02T02:02:31Z" finished-at="2021-05-02T02:02:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c90b7b7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void bln.test.automation.wordpressAPI.WordPressAPITestScripts.brokerAPIV2_createLoan() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="brokerAPIV2_createLoan()[pri:1, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="brokerAPIV2_createLoan" duration-ms="106180" started-at="2021-05-02T02:02:42Z" finished-at="2021-05-02T02:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokerAPIV2_createLoan -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="tearDown" is-config="true" duration-ms="1172" started-at="2021-05-02T02:04:29Z" finished-at="2021-05-02T02:04:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=brokerAPIV2_createLoan status=SUCCESS method=WordPressAPITestScripts.brokerAPIV2_createLoan()[pri:1, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeDriver(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="initializeDriver" is-config="true" duration-ms="9473" started-at="2021-05-02T02:04:30Z" finished-at="2021-05-02T02:04:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c90b7b7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void bln.test.automation.wordpressAPI.WordPressAPITestScripts.brokerAPIV3_createLoan() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="brokerAPIV3_createLoan()[pri:2, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="brokerAPIV3_createLoan" duration-ms="117935" started-at="2021-05-02T02:04:39Z" finished-at="2021-05-02T02:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokerAPIV3_createLoan -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="tearDown" is-config="true" duration-ms="1233" started-at="2021-05-02T02:06:37Z" finished-at="2021-05-02T02:06:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=brokerAPIV3_createLoan status=SUCCESS method=WordPressAPITestScripts.brokerAPIV3_createLoan()[pri:2, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeDriver(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="initializeDriver" is-config="true" duration-ms="9329" started-at="2021-05-02T02:06:38Z" finished-at="2021-05-02T02:06:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c90b7b7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void bln.test.automation.wordpressAPI.WordPressAPITestScripts.lenderAPIV2_createLoan_RealEstateInvestor() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="lenderAPIV2_createLoan_RealEstateInvestor()[pri:3, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="lenderAPIV2_createLoan_RealEstateInvestor" duration-ms="103072" started-at="2021-05-02T02:06:48Z" finished-at="2021-05-02T02:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lenderAPIV2_createLoan_RealEstateInvestor -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="tearDown" is-config="true" duration-ms="1412" started-at="2021-05-02T02:08:31Z" finished-at="2021-05-02T02:08:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=lenderAPIV2_createLoan_RealEstateInvestor status=SUCCESS method=WordPressAPITestScripts.lenderAPIV2_createLoan_RealEstateInvestor()[pri:3, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeDriver(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="initializeDriver" is-config="true" duration-ms="9324" started-at="2021-05-02T02:08:32Z" finished-at="2021-05-02T02:08:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c90b7b7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void bln.test.automation.wordpressAPI.WordPressAPITestScripts.lenderAPIV3_createLoan_RealEstateInvestor() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="lenderAPIV3_createLoan_RealEstateInvestor()[pri:4, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="lenderAPIV3_createLoan_RealEstateInvestor" duration-ms="108551" started-at="2021-05-02T02:08:42Z" finished-at="2021-05-02T02:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lenderAPIV3_createLoan_RealEstateInvestor -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95]" name="tearDown" is-config="true" duration-ms="1485" started-at="2021-05-02T02:10:30Z" finished-at="2021-05-02T02:10:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=lenderAPIV3_createLoan_RealEstateInvestor status=SUCCESS method=WordPressAPITestScripts.lenderAPIV3_createLoan_RealEstateInvestor()[pri:4, instance:bln.test.automation.wordpressAPI.WordPressAPITestScripts@42dafa95] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- bln.test.automation.wordpressAPI.WordPressAPITestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

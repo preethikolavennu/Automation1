@@ -1,0 +1,3815 @@
+Navigating to URL:https://blnstaging.bridgeloannetwork.com/members/login
+Navigated to URL:https://blnstaging.bridgeloannetwork.com/members/login
+trying to find element By.id: login
+Element found, inner text of element is 
+trying to find element By.id: login
+Element found, inner text of element is 
+trying to find element By.id: password
+Element found, inner text of element is 
+trying to find element By.id: submit_0
+Element found, inner text of element is 
+sent keys to element [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> id: login] and keyed data is null
+sent keys to element [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> id: login] and keyed data is [harika@bridgeloannetwork.com]
+sent keys to element [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> id: login] and keyed data is [?]
+sent keys to element [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> id: password] and keyed data is null
+sent keys to element [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> id: password] and keyed data is [Testingdone29$]
+trying to click on [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> id: submit_0]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.1.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64895}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 55f089a3bfb51043491ac5c0558cf8c7
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> id: submit_0]
+trying to find element By.xpath: //a[contains(text(),'Users')]
+Element found, inner text of element is USERS
+trying to click on [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> xpath: //a[contains(text(),'Users')]]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.1.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64895}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 55f089a3bfb51043491ac5c0558cf8c7
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> xpath: //a[contains(text(),'Users')]]
+trying to find element By.xpath: //a[contains(text(),'RCN Capital')]
+Element found, inner text of element is RCN Capital
+trying to click on [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> xpath: //a[contains(text(),'RCN Capital')]]
+Clicked on element [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> xpath: //a[contains(text(),'RCN Capital')]] With inner text RCN Capital
+trying to find element By.xpath: (//a[contains(text(),'Harika Vegesna')])[1]
+Element found, inner text of element is Harika Vegesna
+trying to click on [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> xpath: (//a[contains(text(),'Harika Vegesna')])[1]]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.1.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64895}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 55f089a3bfb51043491ac5c0558cf8c7
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> xpath: (//a[contains(text(),'Harika Vegesna')])[1]]
+trying to find element By.xpath: //a[contains(text(),'Loan Requests')]
+Element found, inner text of element is LOAN REQUESTS
+trying to click on [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> xpath: //a[contains(text(),'Loan Requests')]]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.1.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64895}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 55f089a3bfb51043491ac5c0558cf8c7
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> xpath: //a[contains(text(),'Loan Requests')]]
+trying to find element By.xpath: (//div[@tabulator-field='address'])[2]//child::a
+Element found, inner text of element is TBD, TBD, AL 00000
+trying to click on [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> xpath: (//div[@tabulator-field='address'])[2]//child::a]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.1.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64895}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 55f089a3bfb51043491ac5c0558cf8c7
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> xpath: (//div[@tabulator-field='address'])[2]//child::a]
+trying to find element By.cssSelector: htmlgroup[class='bln-bs'] >div[class='vtabs-container'] ul[class='nav nav-tabs'] >li:nth-child(3)
+Element found, inner text of element is Contacts
+trying to click on [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> css selector: htmlgroup[class='bln-bs'] >div[class='vtabs-container'] ul[class='nav nav-tabs'] >li:nth-child(3)]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.1.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64895}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 55f089a3bfb51043491ac5c0558cf8c7
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> css selector: htmlgroup[class='bln-bs'] >div[class='vtabs-container'] ul[class='nav nav-tabs'] >li:nth-child(3)]
+trying to find element By.cssSelector: #add_broker
+Element found, inner text of element is Add Broker
+trying to click on [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> css selector: #add_broker]
+Clicked on element [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> css selector: #add_broker] With inner text Add Broker
+trying to find element By.cssSelector: #search_term
+Element found, inner text of element is 
+sent keys to element [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> css selector: #search_term] and keyed data is [Test]
+trying to find element By.cssSelector: span[id='brokerage_area'] input[value='Search']
+Element found, inner text of element is 
+trying to click on [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> css selector: span[id='brokerage_area'] input[value='Search']]
+Clicked on element [[ChromeDriver: chrome on XP (55f089a3bfb51043491ac5c0558cf8c7)] -> css selector: span[id='brokerage_area'] input[value='Search']] With inner text 
+trying to find element By.cssSelector: select[id='brokerage_id']
+Element found, inner text of element is Select A Brokerage
+Money Lending Biz
+Lend Some Money
+Bridge Lend
+Peak Choice Capital
+HM Capital Source
+Eastern Investment Group LLC
+PCM Tec. Co., Ltd
+Keller Williams 
+Hard Money PDQ
+North Shore Lending
+Full service ink
+Mortgage Man LLC
+Asset Realty Group
+Savy Advocate
+James Close Fast
+LMG
+AMCKA Propert Investments, LLC
+Trustar Funding
+LSN Financial Solutions
+US Commercial Funding Corp
+Gold Medal D Atlanta, LLC
+BrickFront Properties and Construction
+Eminent Lending LLC
+Usa capital
+Full Circle Properties RE
+Security Mortgage Corp.
+Farazad Investments
+Nexus Global Funding, LLC
+GEM Consulting, LLC
+High Bridge Funding LLC
+Golden Anchor Financial Services
+BANCPORT COMMERCIAL CAPITAL LLC
+Tracy Group LTD
+ROI Homes
+Square Lake Capital
+Rates at Wholesale, LLC
+Dkproperties LLC
+Clearwater mortgage
+Austin Brokers Inc
+Cashflow capital llc
+Andrew Warburton Inc
+Charter Mortgage
+Franklin Stone
+Re2 ventures llc
+Chimney Ridge Capital
+Bluestone Mortgage, Inc
+Access Group, LLC
+OneFi
+Main Source Capital
+OneFi LLC
+Realty Executives of KIlleen
+Mortgage Alliance Group
+SkoachyS Investments, LLC
+Bronx Community Realty
+Flint Analytics
+Amber Sky Home Mortgage
+SCI Group
+Awesome Real Estate
+Harjeetbhatti
+AAV
+Moonstar Mortgage
+Custom funding usa, inc
+Pinnacle Financial Services,LLC
+The Mitchell Group - Realty Executives
+AdvancedRealty Solutions
+Coverplus
+CFO Capital Partners
+RobertMKane, LLC 
+Coldwell Banker
+The Bucknor Group, LLC
+HouseWins Investments
+Americas Hard Money
+Private Cash Now
+Real Estate Mortgage Advisors, LLC
+ERA Herman Group Real Estate
+SB&A Realty Group, Inc
+Tier Real Estate, LLC
+Stewart Brokers
+Keller Williams
+Market Consulting Mortgage
+Midwest Realty Group LLC
+RE ETC, Inc
+Guarantee Real Estate
+The Real Estate Group
+Century 21
+Century 21
+Divine Realty
+Herrington and Company, Inc
+Master Realty
+Allpoints Realty Group
+Trillionaire Realty
+Showcase Realty
+Re/Max Excellence Realty
+Miller Laine Properties
+CSG Property Solutions, Inc.
+Target Cost Realty
+Re/Max Commonwealth
+City Management Group
+Emerald Homes
+Compass REO, Inc
+Prudential Bowen Realty
+Magnus Commercial
+City Management Group
+GODMARY INTERNATIONAL INC
+Peoples Home Equity, Inc
+Practical Funding Solutions LLC
+GREEN LIGHT
+Chimera Financial Services
+Integrity concepts 
+CHETU
+Www.chetu.com
+New England Valley Mortgage
+ComCap Financial Group, Inc.
+Epic Capital Solutions Inc
+Key Financial Solutions, Inc
+The Meilleur Groupe
+Seahorse Loans Corp.
+Fbc funding
+Simplicity Financial Services, LLC
+Vista Commercial Capital Corporation
+Madison Capital Group, LLC
+Jorge Regalado, P.A.
+Do hard money
+Colvert Capital Funding
+Private Commercial Funding Solutions, Inc.
+Cardinal Capital Advisors LLC
+Platinum Star Investors Group
+Done Deal Funding
+Select Choice Mortgage
+Metro Financial & Investment Services
+Business America USA
+WFS
+Successful World Group Inc
+Cornerstone Associates, LLC
+New Millynnia International
+Gencor Commercial Capital
+FRESH START CONSULTING & FINANCIAL SERVIC
+Corporate Venture Resources
+Gramatan Investor Associates LLC
+US Homeowners
+Southern Business Solutions, LLC
+Microdmicrofinance
+Microdfinance
+AM Capital Source, LLC
+Senior Commercial Capital, LLC
+Commercial Truth In Lending
+Pam Funding
+Avis Financial Services, Inc.
+Cressida Capital
+Tad3 enterprises inc
+Grey Steed Advsiors, Inc.
+Grey Steed Advisors, Inc.
+PM Consulting LLC
+B & G Financial Solutions
+Criss-Cross Financial Group
+RP Capital Advisors
+23rd Property Services
+Biz4loans
+Blackhawk capital solutions,inc.
+Stepping Stones
+National Asset Mortgage, LLC
+Express Wealth, LLC
+Vonac Financial Corporation
+Commercial Funding Solutions
+Render Capital Group
+Heart Pine Capital
+1ST UNITED FUNDING
+Old Forge Funding LLC
+Ss commercial funding
+CJ TURNER CO INC
+HardMoneyAuthority.com
+Global Funding Solutions LLC
+Peacock Real Estate Acquisition Partners, LLC
+Integrity Financial
+USA Private Money
+Yield crowd
+A M L  ENTERPRISES
+L I Funding Corp
+PifEnterprise
+APF Commercial Consulting 
+Bravo Funding, Inc.
+EzConnectionToCash
+Executive Asset Realty Group
+Bazan Enterprises Investment Co.
+LENDINGTRADE REALTY SERVICES
+Commercial Hard Money Mortgage
+Garrison
+Windsor Capital Advisors
+Ghent realty advisors
+All Dade Mortgage Corporation
+All Dade Mortgage Corp
+Evergreen Avenue, Inc.
+Structured Asset Finance
+Commercial Lender Link
+SWB Property
+Artlen Corporation
+Aurora Commercial Funding Corp
+PhoneOps Funding, LLC
+BLN
+Lone star  general services
+Premier CRE Lending, LLC
+VW Capital Advisors
+Quantex
+CR SOLUTIONS NOW LLC
+Kolarewich Mortgage Company
+Leading The Way Finance Group
+Seed and Harvest Ministry
+Hagan Capital  
+RE Advantage Capital LLC
+PSW Services LLC
+1ST UNITED FUNDING, LLC
+Positive Results
+GLINFICO
+Puccio
+H&N FUNDING
+D. A. Dixon & Associates, LLC
+12yr
+Ronan Funding,LLC
+Fundolo
+Flexmark Capital LLC
+Individual
+Cmv properties, LLC 
+MCL Consultants
+Baramus
+Merchant Flow
+Illinoismidwest Investments LLC
+Ms.
+Lg mortgage
+Bazan Enterprises & Investment Co
+770 hard cash
+First American Home Mortgage, llc
+AA WILLIS CORP
+Newieco Solutions LLC
+P.E. Investments LLC
+Fil-American Mortgage Services
+Intertrust Mortgage
+EM Enterprise, LLC
+Corporate Capital LLC
+Young Financial Solutions
+Black Mountain Capital
+The ARMS Funding Group
+ROYAL MORTGAGE USA CORP
+Above Measures Properties
+Blue Diamond Funding
+Nextlevellending.com
+Atlantic Equity Partners LLC
+Jupiter Financial Services Inc.
+REMAX Alliance
+Mortgage One Solutions
+Coldwell Banker Select Group
+NC One Trust
+Integrity Business Solutions Group
+NEXT Level Financing, Inc.
+A & A Mortgage Funding, Inc.
+Trinity Commercial Funding Consultants, LLC
+Accumulated Benefits & Associates Inc
+Wise Busines Funding.net
+Tenet Global
+Rehab Money Lenders
+Fast Properties LLC
+MOGO Financial Services™
+Private Real Estate Solutions
+Private Real Estate Solutions, LLC
+Michigan Private Money Broker, Inc.
+Short Sale By Owner
+MBJ Real Estate Consultants Inc
+West Capital Holdings Inc.
+Le Hannah, Corp
+A. A. Hughes Inc
+Buildingblock consulting and management llc
+TBD
+The Offices Of A Ver Care International
+Cressida Capital
+Clean Green Energy and Investments
+Turning Point Capital LLC
+Calvert Cap Advisors
+Jambhala Capital Investment, LLC.
+Private Money River
+Law Real Estate
+The Avell Group
+Legacy Commercial Capital
+Legacy Commercial Capital
+ACE Investments Group, LLC
+Bridge Loan Florida
+American Financial Network
+Real Estate Pros LLC
+Missouri Mortgage Clearing House, Inc.
+Iloan
+Case Financial Services LLC 
+BLN
+Broder Law Group, P.C.
+Desmond E Graham
+Lane associates
+B. C. Consulting
+Angelas Brokerage
+Men in Motion H  R llc
+NKP capital group 
+SBA Realty Lending
+O.I.A LLC
+Golden Mile Funding LLC
+Red Post Financial
+GG Financial Crp.
+SUPER STAR FINANCIAL LLC
+Sbarealty.com
+Funding Help Now
+Funding Help Today
+LoanSharkFunding.net
+Money Solutions
+Liberty Loan Source
+MLP Ventures
+Clc mortgage
+Hawkes Funding
+I. Investment Financial
+I. Investment Financial
+New Freedom Group
+Hering 
+Finance Store
+Faulcon & Associates Real Estate LLC
+Bridge Loan Processing
+Lauderdale Funding
+EBC, Inc
+NationWide Cpas 
+US Business Loan Express
+John Tatoian Enterprises
+CRC Hard Money Loans
+DJ'S CONSULTING GROUP,LLC
+Midland Financial Services, Inc
+Bell Air Bridge Loan
+Intega, Inc.
+Liberty Capital Solutions, Inc.
+Investor Equity, LLC
+J. P. G. CONSULTANT
+SDH Commercial Funding Group
+MetroCity Capital Group
+The KPC Group
+Emerald Assets Financial Consultants
+Northstar Financial Consulting
+ASIA PACIFIC FOOD MARKET AND TRADING LLC
+Blueprint Group, Inc.
+1Source Funding 
+Christianandersoninc.com
+Uphill Funding
+R2 CAPITAL CORP
+Puget Sound Commercial Capital Group LLC
+Tony Ramey Consulting
+Commerce Enterprises
+Now Funding Inc
+Alternative Finance Guru
+DNAS Realty Capital
+BLN
+CJW Investment Group llc
+Medlending.net
+Palm springs loan servicing llc
+Madison
+Newsletters
+Greater Cincinnati Community Funding LLC
+HSI MORTGAGE AND FINANCIAL SERVICES
+Commerce America Inc.
+Allen And Associates Consulting Service
+JDW Real Estate
+CPC Diversified Fund
+Bowie Funding
+BLN
+Capital Funding LLC
+International Funding Group
+MKK Capital
+American Capital Funding Associates 
+Charles C.Jones
+R & J Commercial Inc
+A M L  ENTERPRISES
+Commercial Capital &amp; Finance, LLC
+CloverLeaf Lending
+Ford Private Money
+Financial Needs Consultants, LLC
+Blue Diamond Alternative Funding
+Superior Commercial Funding, Inc
+H.K.Long & Company
+R2 CAPITAL
+Finance Needs Group
+GG Financial 
+The Diaz Real Estate Group
+Marques Commercial Capital
+COMMERCIAL FINANCE USA
+Listyourflip.com
+Vasso moulavassilis
+Connecticut Financial Finders, LLC
+Microplus Capital, LLC
+Rebucks LLC
+Altera Capital Solutions LLC
+Accent Mortgage Group, Inc.
+List Your Flip
+IMG Funding Corp
+East Shore Financial Services
+Americap Direct
+BLN
+S21fundingsolutions
+IFundRE.net
+REI Capital Finance
+Princepesa Capital
+Fund Simple
+Hsrd Results
+Premiere Property Solutions
+Test Company
+Express capital inc. 
+Rebucks LLC
+TestCompany1
+Broker Mcbrokerguy
+Dalco Financial Services Inc.
+BLN
+Reit Consulting
+Michael Barker
+ICR Real Estate Services
+Xyzcash.com
+Mark Owens
+Professional Funding Corp.
+Sudden Valley
+Funding Made Simple
+TURBO FUNDING GROUP
+Test Testy
+Test Broker
+Space Capital Alliance 
+Jason Fiveash
+National Properties & Capital Resources, 
+Peter Meyer
+Reliable Funding Inc
+Jeff Spoor
+TSP Financial Group. LLC
+Sherry Nixon
+Arb  Tester
+MoveAhead
+Heritage Funding
+Hilltop Commercial
+Real Estate Investment Group
+Charity Martin
+Best Results Debt RecoveryLLC
+Mount Beacon Consulting
+Clear Financial Concepts, LLC
+Stacy Lewis
+William Kidston
+Juan Cacho
+BrickFront Properties, LLC 
+Kingdom Funding and Consulting
+Howard Heckler
+Michael Brown
+Jennifer Blanchard
+Michelle Jones
+Jensen Loans
+Michelle Hugee
+M.Hugee Enterprises
+Faheem Ra'Oof
+Alltogether Investments
+Bob P
+DJ Van Keuren
+M&a capital group
+TUG
+Unlimited Homes LLC
+John D. Svirsky, Inc.
+Mill City Corp
+Niicholas Hubbard
+Brian Ballo
+Jerome Barker
+Scott Goldman
+Lee-Chandler LLC
+Atlantic Commercial Funding, LLC
+Buddy Dufau
+Anide Charlse
+Global Innovation Group
+Paramount Group Inc
+Reatha Quinn
+Stephen Smith
+L M Smiley and Associates
+Lending Associate
+Caesar  Gonzalez 
+Rick Dipasquale
+Ericka Bennett
+M&G Foundation
+Rick Anthony
+Mark Jollmansberger
+Mike Sam
+Leon  Story
+Barrie Landsman
+Andy Mcmullen
+Greg Smith
+Eric Korpella
+ArchDuke Capital
+Stephen Quroiz
+Ryan Perdue
+Johnnie Sampson
+Third Coast Financial NA
+Kevin Shin 
+Connect One Realty Group
+Finders
+The Blackstone Group LLC
+Alisa Franco
+Elisa Franco
+MPR&ASSOCIATES,LLC
+Est Mortgage Consulting
+Gregg Simons
+TLS Financial Group, LLC
+LOOKING AHEAD PARTNERS
+Cal-State Financial
+Klajk
+Angela Campbell
+Richard New
+Bill Chavis
+Fiscal resource consulting, Inc.
+Equitychasers
+Mewell James
+Lynne Skye
+Ram Rampersaud
+Emporium Holdings Inc.
+Alternative Financial Services
+Fighting For Silver LLC 
+Argent Funding Group
+Brown & Associates
+Pierre Mclean
+Michael Hagan
+Cash Flow Capital
+Brian Allgren
+Capital Funding Resources
+REAL ESTATES SOLUTIONS GROUP
+Alex Lomosi
+C K Capital, Inc.
+Harriet Thomas
+Chad Simpkins
+CounselPro Lending, LLC
+G2 Capital Solutions
+Carla Huffaker
+PK CAPITAL FUBDING LLC
+Reginald Derrickson
+JEFRAMEN GROUP. INC
+Vaneate Living Corp
+Nationwide Commercial Mortgages, LLC
+Nocompanyname
+Grace invest & loan
+Knox Capital
+Openviewproperties
+MOEQUITY,LLC
+Yolanda Benjamin
+www.deedbroker.com
+Fake Brokerage
+Barron Financial Capital
+Diamond Imports Inc.
+Bridgehampton funding.com
+Rose Wilkinson
+Andy G
+Todd Robertson
+Agbora NaaneeLLC
+ReNew Lending
+In the Black Commercial Finance
+TripleCapital, LLC
+Binger Financial Services, LLC
+Donald Stone
+Capital processing 
+Jeanette Glinski
+Communityloans&investments
+IFDC Capital Funding
+USDEBTBUYERS
+First Capital Lending
+Pryor Solutions Funding
+Power House Holding L.L.C
+SouthFloridaFunding
+Paul Ebai
+New Vision Solutions Group Inc
+Bull Chitt Mortgage
+DOM Consulting LLC
+Trinity Commercial Funding Consultants, LLC
+Carlos Anaya
+Luis Roque
+J and J Financial Solutions
+MONEY ACQUISITION SPECIALIST LLC
+Empire Business Funding Inc
+Axis Brokerage
+Aslam Amlani
+West Valley Finance LLC
+Michael Hamalak
+Empire Business Funding Inc
+Global Capital Investment, LLC
+JCC
+Jeremy Novak
+Selden Enterprises, Inc
+Hjhj
+GLS LLC
+Johnny Quinn
+Y and M Funding, LLC
+McCoy Funding Group
+Expert Financial Enterprise
+Basil Fayad
+Bob Hoyte
+Caterpillar Hill Initiative 
+Rodney Simmons
+DH Leffridge & Company
+GreyStone Capital Funding, LLC
+Shipofmoney
+Academy Mortgage
+Bardo Bradley
+Wiese Funding Group
+Sublime Realty, LLC
+Aspen Investors Ggroup, LLC
+Secure Lending Inc.
+CounselPro Lending, LLC
+Reva Capital Markets LLC
+B&L Advantage, LLC
+Mike Palmer
+Richard Chan
+Meridian Capital Group
+GG FINANCIAL
+Mvp capital 
+ER, LLC
+PEMC
+Jason Lewter
+CNY Capital 
+John Riturban
+Cheryl Biernacki
+Professional Consulting Group, LLC
+Vertex Marketing Inc
+Business Funding Solutions
+Waterbury Financial LLC
+Apia Financial Group, LLC
+Farber Mortgage Capital
+C.R.E. Mortgaging, Inc.
+Buzz
+Gary Pitts
+Tom Rudnick
+ELLCORP LLC
+Spry Capital Partners, LLC
+Hard Money Investment 
+KLN Financial Group Incorporated
+LOANSDEMAND
+Integrity 1st Financial, LLC
+FAX, LLC
+Equitable consulting, inc.
+Ameri Funding Sources, LLC
+Harvesters Commercial Capital
+Cb live networking group llc
+The Mortgage Group
+CLIPPER COMMERCIAL CAPITAL
+AVC
+Sysalgo
+Okan Akin
+Abraham Velazco
+Jennifer Groves
+Michael Hudson
+Arthur Isaac
+Integrity Conmercial Funding
+Burden Corp
+DANIELLE MORRIS
+Andrea Sotgiu
+Samuel Thomas
+Tene Williams
+ARSCapital
+Sprayin Loans
+Jay Frankovich
+Vision Driven Financial
+VB Capital Group
+PetroMAC
+Kakaki LLC
+Tommy Washington
+Dalton Cason
+Commercial Funding Source
+Anything Commercial
+Brett Magnuson
+Jaymoore Consultants, Inc.
+Alan Ovdat
+Firmus Commercial Funding
+Kerrs Realty LLC
+National Capital Partners, LLC
+Paul Huntley
+Mr. Fake Brokerage Co
+New Brokerage Guy Dude
+Gateway Baybury Funding Group llc
+Push Test Brokerage
+Hamblen Hardware, Inc.
+Global Acquisitions & Investments
+The Wilson Group
+Rosenco international llc
+Macuc a
+Michael L Gray& Associates
+Capital Business Solutions, LLC
+VP Finance Inc.
+Wallace Capital Funding, LLC
+Cj Mauldin Properties LLC
+Mintole Investment LLC
+First Light House Capital
+12/9 Tester
+NUWAY MORTGAGE INC
+AGF Enterprise LLC
+Madison Lee Corp.
+Indigo Management Group LLC
+Wright Way Development LLC
+Gold Coast Capital Holdings
+Superior Business Lending, LLC
+AHAYA VENTURE GROUP LLC
+Csmg Capital Solutions
+S.B. FUNDING CORP.
+Mva Funding Group
+Covenant Financial Solutions,LLC
+DHLeffRidge and Company 
+Capital West Funding
+EQUICORE FUNDING, LLC
+GBFC
+Jireh International, Inc.
+Katrinaveney
+Arrow Renovation
+Spirides Hospitality Finance Company, LLC
+KRENINCS LLC
+Atlas Business Capital Corp.
+Empowered Business Financing, LLC
+Eagle Financial Solutions
+AISB Capital
+LMH capitol
+Fidelity Business Financing
+Investors Capital Solutions, LLC
+Larry's Brokerage
+Dtjrs financial services
+Mortgage Direct Inc.
+Bridgepoint Mortgage
+WealthTree Capital
+REPBNK
+Realty world hometown 
+Elite Investing Group 
+Southwest Investment LLC
+Townhouse Realty Nyc
+Items 956
+Diversified Financial Services Corporation
+Donald Robinson
+Development Capital Solutions LLC
+Development Capital Solutions LLC
+BobbyVan Realty
+Biz Com Loans Inc.
+Alpha Mortgage & Financial Services 
+1995
+Had Investments LLC
+Timberlane Capital, LLC
+Test Brokerage444
+CapStratum Management
+JSS Business Loans
+Equity Source LLC
+Funding Solutions Int.
+NFSG LLC
+Double Diamond Texas Capital
+Arcadio Funding
+BRADLEY AND ASSOCIATES
+Quality consolidated services, inc.
+28 Push Broker Test
+Nationwide Capital
+Noficoscoregroup, Llc
+Premier Financial
+Premier Financial
+Global Capital Investment
+Enpro
+Benen 1 Enterprises LLC
+Midwest Private Lending
+Wealth Assets LLC
+2/10 Push Broker
+210 Plugin Broker
+H & H Financial Group, LLC
+Dna Financials
+Auto Assign Broker
+Funding Stage
+Vernon Street Capital
+Premier Solutions 
+Mikesbrokerage
+Mikesbrokerage
+MBH Capital LLC
+global investment
+Capital Three Sixty LLC
+LendrBot.com
+Success Mortgage Partners, Inc
+ARV Capital
+Mcguire LLC
+BFG Holdings,dba.Of: LTC Development,LLC
+Inter Capital Network
+Practice Broker
+Lanier International Holdings, Inc
+Dowell Financial
+Premier Financial
+Private Asset Strategies
+PGN
+Tyree Moreland
+Swiftlend Mortgage
+Vanguard Lending, LLC
+Vision Global Us Inc
+Stonecastle
+fortiz urban networks, llc
+VICTORIA Realty
+NA&M Property Development 
+Hunt Capital Lending Inc.
+Premier Advanced Lending
+GT Consulting
+Commercial Express Capital LLC
+Winston North Group LLC
+Urban Habitat
+Boston Commercial Mortgage LLC
+Loan For Any Purpose
+DFS
+New England Regional Mortgage
+BLNBROKER1TRPEE
+BLN Test 33
+Test
+Blnbroker5
+Poipoipoipoipoipopoipo
+Testbrokerage304
+Testbroker304x2
+Testbrokerage304x2
+credit and home LLC
+Gem Star Capital LLC
+Sickofthisbrokerage307
+Testbrokerage307
+Empire Merchant Group
+Craboo Capital
+Rockgate Financial Services, LLC
+Rockgate Financial Services, LLC.
+Alternative Capital Funding
+Commercial Express Capital LLC
+AFS Enterprises
+3/10 Push Brokerage
+Testing Brokerage
+Sickofthisbroker02
+Testosterone Inc
+Testosterone Inc
+Test Davis Brokerage
+Diverse Property Solutions Indiana
+Gem Consulting LLC
+Florida Homes Realty & Mortgage
+Diversified Commercial Lending Solutions Grou
+LendBloom Capital
+Bhhs Fox & Roach, Realtors
+Green Street Financial LLC
+National Transaction Corporation
+123Real
+Rhodes Financial Group, LLC
+GBI
+JD Funding
+N/a
+INVESTOR SOURCE CAPITAL
+HUDSON GROUP REALTY
+Imani Capital
+Jenkins Financial and Consultant Group LLC
+Peak Choice Capital
+US Best Capital Partners, LLC
+Blue Sky Global Capital 
+CRE Underwriters Inc.
+ARCAP Financial LLC
+National Business Alliance LLC
+Same
+Bidthecreditdoc
+Mid Atlantic Financial Group LLC
+Calli Prendergast Realty
+ICommercial Lending Group, LLC
+Turner Enterprises
+BLN
+Insource Funding
+JPS Management Group, LLC
+Starboard Enterprises. Inc
+RAAAJ,Inc
+Wise Cash Flow
+Metrosource, Inc. 
+Loansapproval.com
+D&D Funding
+MBM Funding Company 
+ResComm Capital LLC
+Unique Funding Solutions
+Trisource Capital, LLC
+Render Capital Group
+Equity Finance, LLC
+Amplusfunding
+Los Gatos Lending Group
+Southeast Michigan Investor Solutions LLC
+Commercial Finance Resources
+Value Funding Inc
+TurnKey Property Solution
+Ccb management solutions LLC 
+East Coast Investments LLC
+JTM FINANCIAL sERVICES
+Carmel 1 Capital
+Carmel 1 Capital
+Tennant Real Estate Management Ltd
+RH HOldings
+Funding P2P, LLC
+Capital Faith Real Estate,LLC
+Foley Properties, Inc.
+Banc Capital
+Blue Sky Investment Capital, LLC.
+Guaranty Federal Financial
+SVS Finance 
+REIDirectFunds.com
+Empire Real Estate Solutions
+Harvestime Investment Service
+UCGNY Ltd.
+Kay Vang-Thao
+Equitable Consulting, LLC
+Allbiz Funding Solutions
+DMI Financial
+Eagle Consulting Firm, LLC
+TC Capital Group, Inc.
+Cash Flo Capital
+Bay Bridge Funding LLC
+Power solutions
+E Mortgage Finance Corp 
+PRIAA LLC
+T-Square Lending LLC
+Global Integrity Finance
+Sunrise enterprises
+United Capital Partners
+Quantum community development
+Cornerstone Mortgage LLC
+Brian Henderson
+Brokerage 324
+Testbrokerage217
+TestBrokerage324
+Official Brokerage
+REInew Equity
+Sterling Capital Alliance
+Caspian Group
+Fast Capital Funding
+Mad Capital Company
+CC Funding
+Spectrum Commercial
+TCB Capital
+AbleCapital Solutions, Inc.
+KCG
+AJ Capital Advisors
+Morgan Funding Partners
+Divinity Realty
+CC Funding, LLC
+CC Funding, LLC
+Cardinal Capital
+The MIKE DAGILIS Team
+Universal Financing Business
+Big Daddy capital LLC
+HarrisCapital Advisors, LLC
+LJ Funding, Inc
+Arvy realty 
+First Banc Capital
+Omega Capital Street
+Queen Capital Fundingg
+ILLINOISMIDWEST INVESTMENTS
+Hudson Realty Enetrprises LTD
+Hud-1 Group
+Abernathy Investments
+414 Push Broker
+Onyx International Group Inc.
+Midwest Business Financing
+Jubilee Realty & Notarization Services, LLC
+Finance Agents 
+Crye-Leike Realtors
+Denver Real Estate Services 
+Laret Inc
+Liberty Funding Consultants
+Pearl Financing LLC
+Azure Capital Infusion PGH
+Drain Management Investment Service
+Brazmab Financial Services
+Catchu Properties LLC
+Cash Management Group
+HRP, LLC
+FundBridge Capital
+ENOTS Financial Services LLC
+Baird and Warner
+Weston Brown
+Vulture Investment Firm LLC
+TLC
+CBC Alliance
+Liberty Lending Corporation
+Highland Commercial Capital
+51 Brokerage
+Pdf Broker
+NEW NAAGEMENT FINNCIAL
+Luxury lifestyles
+Cardinal Business Financing, Inc.
+Clear Coin Financials LLC
+SFC1 Consulting Enterprises Inc
+John Coleman, CPA
+Real Money LLC
+Wimbley Financial Consultants
+Community Mortgage Corporation
+Adelphos Capital LLC
+HSM Realty Inc
+PraisePoint LLC
+The Jacovino Capital Fund
+R5 Capital,  LLC
+Monetary marketing consultants, llc
+Hardmoney Depot
+Dependable Business Lending
+512 Test Brokerage
+RCN
+Flip Funding 
+A&R Realty
+Finishline Capital
+Accelerate Commercial Capital
+Wisco Funding LLC
+BRC Capital Solutions
+TLS Financial Group, LLC
+WIN Investment Properties LLC
+HUDSON GROUP REALTY NETWORK COMMERCIAL LENDIN
+Wall Street Capital Advisors 
+CalDirect Lending
+INVIGOR WIRELESS & INVIGOR FUNDING INC
+Accumulated Benefits & Associates Inc
+InvestmentPropertyFinancing.org
+No Limit Investments, Inc.
+Creative Hard Money LLC
+Omada Resource Group
+VET Worldwide Solutions LLC
+One Stop Funding LLC
+314 Capital
+Peaceway Financial
+Call & Save Services, Inc.
+Bravura Properties, LLC
+Vanguard International Consultants Group, LLC
+414 Capital
+Money Source of America
+Kingdom Resources Development Inc.
+Matrix Equity
+RCNTesters
+Crowne pointe funding
+Realty Financial Solutions Group
+KickStart Funding llc
+QUICK REHAB FINANCING
+Integrity Capital
+Carter & Carter 
+A.J.T.M. Financial Group, Inc.
+B&T Development Group
+519 Push Broker
+Elie Investing Group LLC
+TBN Services LLC dba Customer Credit Finance
+Next Step Capital Funding 
+Modern Capital Solutions
+GoKapital, Inc.
+Test Fake Broker 1
+Dsffds
+Dsffds
+Test rcn brokerage 520
+Today Funding
+Chronos Group LLC
+Business Credit & Finance
+Deerfield Consulting
+Plousio
+Axis Test 525
+Mores Realty Organization, LLC
+Amy Zuffranieei
+Bayway Mortgage Group
+4 Seasons Homes, LLC 
+Heath Commercial Capital
+Germani Assciates LLC
+Rodino & Associates, Inc.
+WorkingCash, Inc
+Marty Rauch Real Estate
+RER
+Montour Capital, LLC
+New World Realty Corp
+TinaBansi
+RUBEN ALDANA BROKER #01010286
+66 Test Broker
+Barrington Commercial Capital
+Breger Global Lending LLC
+Black Onyx of America LLC
+Magnapoint Commercial Funding LLC
+Real Easy Credit, LLC
+Aja Properties, Ltd
+Caridi & Associates
+The Advancement Group, LLC
+Allen Realty Group llc
+Commercial Capital Group, LLC
+Reapso INC
+Holston holdings
+KMB Enterprise, Inc.
+Beacon hill capital LLC
+R12 Capital
+Mission Capital, Inc
+Blue Tiger Business Brokers
+Integrity Capital Finance
+KER Ventures Inc.
+FIRST MORTGAGE
+NA
+Blueline Capital Funding
+Chronos Group LLC
+Evergreen Commercial Finance LLC
+Annex Capital & Consulting
+Jenkins Financial and Consulting Group LLC
+Tudor Capital LLC
+PLG CPITAL FUNDING GROUP
+INBANET INVESTMENTS LLC
+COVE CAPITAL LENDING LLC
+Red Door Group, LLC
+SNC FUNDING AND INVESTMENTS
+TCH Wealth
+Fmg financial
+Project funding llp
+Top Score llc
+Quickline Capital Partners, Inc.
+Synergy Finance LLC
+Metropolitan Consulting Corp.
+Chambliss Group, LLC 
+77 Brokereage
+RCN 77 Brokerage
+Southeastern Capital LLC
+American Realty Properties LLC
+Simon Brokerage
+Timberlane Capital LLC
+Atlantic Ocean Partners
+Bay Bridge Funding LLC
+Commercial Loan Solutions
+Thompson Credit Solutions
+WN Financial Solutions
+Davis Management Group
+Manhattan commercial mtg. co.
+n/a
+Real Estate Pros LLC
+Walters Global Business Resources LLC
+Everflow Wealth
+Alpha Mortgage & Financial Services, Inc.
+Capital Investment Group
+Group7 Commercial Financing
+Kacey Ximines
+BestCommercialRates.com
+JP Associates & Investments
+Testing123
+Capital Resource Solutions
+Hard Money of America, Inc
+US MORTGAGE LENDERS
+Global Inspirations Inc (DBA Everflow Wealth)
+Homeward Realty Corporation 
+Coldwell Banker Resort Realty Milford
+Bravura Properties, LLC
+PARKMERE GROUP INVESTMENT INC
+T.T. Noxon Realty LLC
+fivestarconstructiongroup
+James George
+Bridge Mortgage Bankers
+Rehab Build Capital
+BHM Holding Company
+NEXT STEP CAPITAL FUNDING
+Kale Realty
+87 Test Brokerage
+RJ Financial group
+Fidus Fund LLC
+ISOE Commercial CApital
+Coast2Coast Mortgage
+Winston North Group LLC
+Merchants Financial Serivices
+Alpha Funding Corp.
+Realty network investments llc
+BSIP Capital
+Wall Street Capital Advisors 
+CFRE Capital Funding Corporation
+Wisco Funding
+JP Associates And Investments
+Close Now LLC.
+G-Rhema Capital Finance
+Direct Money Lenders Inc
+ADVANTAGE FUNDING SERVICES, LLC
+Uptown Commercial Capital
+JACOG Real Estate Loans 
+231 capital llc
+Fund Simple Inc.
+Keavy Group LLC
+Vista Commercial Capital
+Quick Close Loans, LLC
+Bayshore Realty of Central Michigan Inc
+Logic Capital Markets
+Premier Global Capital
+Capital Finance Partner, Inc.
+Rio Commercial Capital Consulting LLC
+Imperium Lenders 
+Comptete Commercial Loans
+Moonlit Ventures, LLC - Glassridge
+Cambio Capital llc
+National Commercial Property loans inc
+NextHome StoneLeaf Realty
+JLPM Group Inc
+Central Gold Key Realty
+Live Oaks Realty
+Amp Realty
+Capital American Realty 
+REMAX Real Estate Team
+Coldwell Banker Pryor Realty
+Property Marketers LLC
+Kiefer Realty
+Heritage Properties
+Realty 
+Nora M E Davis Real Estate 
+INI Realty Investments Inc
+Ann Patounas LLC 
+E-Merge
+EC Realty & Management
+Zichil Elite Real Estate
+Revision Real Estate
+Coldwell Banker Mendo Realty
+RealtySouth
+Welcome Mat Realty Inc.
+Exit Golden Realty Group
+MIA Realty, Corp.
+RE/MAX Beyond 2000
+MLS Deal Finder
+Danita Bell PA
+ABR Financial LLC
+Broker In Trust 
+J.K. Real Estate Inc.
+Mahoo Real Estate Solutions Group
+EXP Realty LLC
+Envision Realty
+Envision Realty
+Berkeley Advisors LLC
+Broker90379
+Broker55406
+CENTURY21North Homes Realty, Inc
+Infinity Realty
+Universal Properties Realty
+RE/MAX Area Real Estate
+Expert Real Estate and Investment
+REMAX PREFERRED
+Legacy Real Estate Group
+Gerry Pagano
+Gibson Holdings
+Bolanos & Associates Real Estate
+Campbell Investment Realty, Inc.
+Dalton Stover
+Integrity First Equity Investments, LLC
+beaconhillcapital
+DOCTOR WORKING CAPITAL INC
+Legacy Lending LLC
+Georgia Private Finance
+Platinum Commercial Capital Corporation
+Commercial Realty Funding, LLC
+Jade Dog Capital Corp.
+East Coast Investments
+Century 21 Affiliated
+O'Hare Associates Capital Solutions
+Infinity Commercial Capital Group
+Byron Commercial Capital, LLC
+Double Diamond Texas Capital
+Capital for Business, Inc.
+Express Capital Financing
+Modification enterprise
+AMB Business Solutions
+H-CAPITAL REAL ESTATE
+Athena Capital Group, LLC
+Bridgeway Capital Group, Inc
+Resolute Commercial Capital, LLC
+Loan Consultant
+Bridgeway Capital Group
+Five Star Commercial Finance
+Capital Resources Group LLC
+Strategic Capital Solutions Group
+Liberty Commercial Capital Inc.
+Breaico, LLC
+RCD Capital LLC
+91TestBorker
+Duke Capital Advisors
+Alowe Real Estate
+P H Real Estate Holdings, Inc
+Tmxpress
+Airstream Publishing Co. Inc.
+Providence Place Properties, LLC
+Commercial Capital Funding LLC
+US Debt Buyers
+REATA FUNDING LLC
+United Captial Partners
+AG Prime Realty LLC
+Legacy Mortgage Brokers, LLC
+FFC Investments LLC
+Asset support retrieval, llc
+GBH Capital LLC
+Liklon Investment Group
+Davy Business Capital
+Marina Associates International, LLC
+Interbank Capital Corp, LLC
+MGL Capital
+Odom Commercial Capital
+Genesis
+DHARMA
+McCray Inestments, LLC
+Afg capital
+Dominion Capital Management Corporation 
+Move4Free Realty LLC
+Greathouse Real Estate Company
+Flipside Capital 
+Capital Real Estate Markets
+Chase Estate Lending
+bsbroker
+Commercial Capital Funding LLC
+Madison Lee Corp 
+SOL Financial
+SEO Global Finance Consult Network
+My Preferred CC
+First National Commercial Mortgage
+New Hope Finance
+Cash Connection
+Menlo Park Financial
+BrokerForDorinTest
+Broker Company - Opfocus2
+Broker Company - Opfocus33
+J.M. ALEXANDER,LLC
+C2 Financial Corp
+1020 Broker
+New Hope Finance*
+Coast to Coast Commerical Capital, Inc
+Envision Funding Solutions
+dba michael castagna
+1025 Broker
+Buoy Capital
+First Choice Hard Money
+Lavan financial group
+Moxie Financial
+EmpireLux LLC.
+K&V&S Real Estate Investors Inc
+Investors Capital Express
+McCray Investments, LLC
+112 Broker
+Aspire Lease and Factor
+Drayton Group Advisors LLC
+Kutz
+Onyx International Group
+Darrell Cheney Realty
+117 Test Broker
+IPM Business Inc
+rtl capital group
+Jemstone Funding, LLC
+SBLOANS
+BLACKFACE BUSINESS SERVICE NETWORK,LLC
+Southeastern Capital LLC
+Global Premier Asset Funding llc
+Broker 119
+WN Financial Solutions
+INTEGRITY CREDIT CORPORATION
+Stone Creek Financial Services
+Yellow Brick Properties 
+NFG asset wealth management
+J.T.Harmon & Associates
+Oxford Capital
+Clear Capital Group 
+Floyd Private Money Broker
+Muevo Investments
+MARQUIS REAL ESTATE LLC
+Expressway Business Loans, LLC.
+Vigent Capital Inc
+SIMS Capital, LLC
+Focus Enterprises, inc
+Highrise Investment Group, LLC
+Bourbonnais Consulting Group
+Tavaughn Capital Advisors, LLC
+XPROCESS-CHAINS LLC
+Straight Forward Advising, LLC
+Premier Financial Services
+Element Capital Lending, LLC
+P&S Financial LLC
+Straight Forward Advising, LLC 
+Brewster Financial
+Greentree
+ADM Financial Group
+DKS Real Estate Investments LLC
+Diamond Realty Associates, Inc.
+Preferred Commercial Capital
+Lending_Solutions
+Jolt Funding
+1122 Broker
+Michael & Funk REI, LLC
+BLP COMMERCIAL, LLC
+Rising Bird Inc
+ALLODIAL REALTY
+Corey Singleton
+LG American Financial
+Test 128 RCN
+Jarrett Lovick
+Self flip
+Creative capital lending
+Cove Capital Lending
+RESQ Firm LLC
+Prime Commercial Capital
+Broker Solutions LLC
+Astralgroup
+K&T Realty Group
+Fusion Private
+Commonwealthdiverisifed LLC
+Exclusive Marketing Direct LLC
+Commercial Loan Finders, LLC
+Hard money solutions  llc
+Better Home Relocation
+Macasti Group, Inc.
+West Valley Finance, LLC
+Prive Financier Corp
+Onyx International Group Inc.
+126 Broker
+126 Broker 2
+S A Whitley
+Urban Re Invest
+Independence Commercial Capital, LLC
+Brass Financial Group
+Freslie Financial Services
+Quantum capital
+Hard Money Depot
+Hudson Home Services LLC
+Flexible Funding, Inc.
+Lloyd Direct 
+Lloyd Direct 
+Elite Realty
+Dixon Realty
+Test Brokerage, LLC
+Prime Money Group LLC
+Kingdom Firm Capital 
+Tillis Rehab
+Community Real Estate Firm
+Optimus Capital Corp
+Perri Funding Corp
+DDD MARKET MANAGEMENT 
+ACCESS1 PROPERTIES
+VelaStar Commercial Funding
+none
+Yvette Freeman
+1219 Brokerage
+MBS 181 LLC
+Hilltop Commercial - Florida
+Venture Lending Solutions
+Great Falls LLC
+Martin Home Solutions
+prospectors investment and home solutions
+Infinity Commercial Lending
+Lend Some Money
+Loan Simple
+Nationwide Home Loans
+The HET Group, LLC
+Lending Bankers Mortgage, LLC.
+casty guillaume
+Casty Guillaume
+Bg Capital Funding Group
+RED STAR COMMERCIAL REAL ESTATE FUNDING
+1st Eagle Mortgage Inc.
+James Avery Commercial Lender
+Pj Funding
+Asset Marketing and  Management, LLC
+National Reo Lender
+Lending Resources
+1228 Broker
+MRM Solutions, LLC
+Lendcore
+HPA
+Berkshire Hathaway H.S. Blake REALTORS
+huckleberry enterprises
+Ifergane Consulting Group
+NEPCO, INC
+Lee Miller Usa
+S&A Property
+anthyony cathey 
+Trade Lender
+Wise Cash Flow
+BRIGHTLINK CAPITAL
+FLEXIBLE FUNDING INC.
+Invigor Wireless Inc
+AMCKA Propert Investments, LLC
+Beacon Equities, Inc.
+Flipping Out Corp
+GREAT RATE MORTGAGE
+Empire Capital
+real estate solution llc
+TAB Equities LLC
+New Options Commerical Lending
+KJG CONSULTING 
+Virtue Assets.
+Lending Heights, Llc
+Ed Slaback
+Nauset Light CC
+Abel Commercial Funding, Llc
+DG PINNACLE FUNDING, LLC
+111 Brokerage
+Lab Ratski Brokerage
+Endeavor Mortgage
+Phinance Commercial Capital
+Arc Equity
+TIANA
+Empire Merchant Group
+Fidus Funding
+Star Equity
+Commonwealth Capital Solutions LLC
+Buy A Flip
+Get Approved Funding 
+119 Brokerage
+CSC, LLC
+Zackery Enterprises Nationwide
+Loan Simple
+Diversified Commercial Mortgage
+Island Home Loans
+Halo capital 
+BLP Commercial, LLC
+Loan Brokers
+12417 Broker
+The Magee Group
+Private Capital Lending, Llc
+L&H Asset Advocates, LLC
+Evd Funding Group, Inc
+Five 2 Five Private Capital
+Girit
+NA Nationwide Mortgage
+ennovydrallop consulting
+Key Business Loans, Inc.
+Semloh Investment &Property Group LLC
+Second Funds, LLC
+Capital Partners Network
+Forest Realty LLC
+JD Capital Investment Group 
+Ariel Baserio
+Eire Capital Services LLC
+BAS
+The Magee Group, Inc.
+Invest Four More
+ACA Funding
+Big Money Finders
+Marques Commercial Capital 
+The Dm3 Group
+Lockett-n-homes
+Wealth 2 Lend 
+Crown Realty Homes
+Turner Investments and Capital Group, Inc
+Sierra Pacific Mortgage
+2717 Brokerage
+Baird & Warner
+3059 Route 9 LLC
+Ntime Capital
+Byrd Capital, LLC
+L&H Asset Advocates, LLC
+Smilin4Shore
+SF Realty, Inc. 
+Browne Investments, LLC
+Bellot Consulting
+PP&F FundingGroup,LLC
+Unlimited Financial Funding, LLC
+Encore Commercial Capital Corporation
+Reddish Bull Finance, Inc
+oneway productions
+Metro Brokers
+JH MOORE INCORPORATED
+REMAX Vision
+Coldwell Banker
+Casbrafinancial llc
+Vissor Commercial Capital
+Mass Hard Money
+Century 21 American Homes
+Custom Mortgage Soluctions Llc
+Mass hard money
+JH MOORE INCORPORATED
+Fund-Amental
+11 Capital Finance
+Nationwide Business Capital Group
+Texas Mortgage Consultants
+RPM Realty Group
+Hooks Moneyline
+Binger Financial Services
+Provenbusinessfinancing
+Santa Fe Real Estate & Development, LLC
+22117 Brokerage
+Private Lending Group
+Keep It Quick Funding, LLC
+Lending Group International
+gateway capital 
+A&F GLOBAL
+The Funds Group
+Endeavor Mortgage
+Endeavor MTG
+SEO Consult Finance Inc
+Curb Appeal LLC, Keller Williams South Sound
+Villa Nova Financing Group, Llc
+Capital & Financial Centre
+Gg
+NorthStar Erie LLC
+G&HMoney LLC
+Byjems, Inc
+Asset Advisement
+C2 Financial
+Liberty Rental Finance
+First United, Inc
+NorthStar Erie LLC
+RMS Capital Solutions
+Bridge2Funds
+Sal Torres
+Acadia Advisory Group
+Ecm Real Estate Services, Inc. 
+PF Solutions, Inc.
+Bowers financial services
+Premier Financial Services
+Advantage Consulting Enterprise LLC
+Elite Mortgage Consultant
+FLPPD Funding
+A.C. Property Management
+Weichert, Realtors
+Archway Home Loans
+Chapman Equity Partmers
+SUNTEX INC.
+Training Broker
+Overflow Capital Partners
+Knights Commercial Capital
+GoldStar Capital LLC
+Old Ivy Capital Partners LLC
+Safevue Capital
+Buffalo FUnding inc
+Kathian, Inc. 
+Southeastern Capital LLC
+Bull Market Capital
+BD Financial Solutions
+Axiom Capital Resource
+Long & Foster Real Estate, Inc
+Adanced Systems Realty
+Excel Mortgage Network
+CFS Realty and Management
+Braxton and Company LLC
+New Kingdom Builders, Llc
+Remax Precision
+Anson Capital LLC
+Bankers Realty Services, Inc
+Marlo Crawley
+MyTmar
+Benito Realty Group
+NE-Group, Inc; of Northern Florida
+Stanford Capital Acquisition, Inc.
+Global Loan Source
+Option Real Estate
+Broker Model
+Sage Capital Group
+YVEMORE Real Estate Investment LLC
+322 Broker
+Rehab Cash LLC
+Home Smart Real Estate
+Continental Funding Corp
+Elk Funding
+JD Cove, LLC.
+MA Home Buyers LLC
+...
+Peerless Settlement Services
+Investor's Capital & Resources, LLC
+Michelle Darden
+Key Mortgage Group
+Flipside Capital
+ALLIANCE GOVERNMENT FUNDING, INC
+GR-CAPITAL FINANCE 
+Firmus Commercial Funding
+Los Gatos Lending
+AFIG
+Oxford Business Capital
+Aletheia Management LLC
+Warnar Properties, LLC
+Great Lakes Credit Consulting
+Today Funding
+NextHome White Sands
+Mortgage Approval Guide
+Henderson & Associates
+Re/Max Gold
+Penev Realty Advisors
+BridgeLoanLending.net
+Nutech Capital Resources
+Move4Free Realty
+NewBridge Capital Solutions
+HomeSmart CrossIsland
+Entrance 1 Realty LLC
+Keller Williams Realty Landmark ll
+NuPLEXREALTY.com
+KJH 
+Custom Mortgage
+First Funds Group
+Nationwide BCG
+Direct Marketing
+Business Financial Solutions Group
+Stanwich Capital Advisors
+HomeSolutions Consulting LLC
+Millionaire Investments
+Second chance finance company
+Yes Real Estate 
+4517 Brokerage
+Mead & Company
+API Testing Company
+Capital 1 Source
+Affluent Capital Funding
+ICG10 Capital
+WELLSPRING MORTGAGE AND INVESTMENTS, LLC
+Ultimate Mortgage Company
+Summit Business Financing
+Summit Business Financing
+Eagle Crest Realty, Inc
+Zip-Loan
+Orbit Commercial Capital Llc
+Investor Direct Capital, Inc.
+Shamrock Capital Funding LLC
+Braswell Capital Solutions
+LionShare Capital Fundingl
+Money Systems Commerce, LLC
+Remax Area Real Estate Network
+Sunlife Capital Group
+StoneBridge Capital Group LLC
+Equity Capital Ca, LLC
+White and Associates
+Zip-Loan
+360 Funding Partners
+Grant Financial Group & Investments, LLC.
+Morris Park Realty Group
+LF Real Estate Group
+National Reliable Lending
+AMUSA Commercial Capital
+MSSF Financial Resources 
+Kerrilynn Jennigns
+crj real estate & investments group llc
+Hal Ware, LLC
+Dzurko Group
+RESIDENTIAL GEMS CAPITAL FUNDING, LLC.
+AERIAL ASSET MANAGEMENT
+The Real Estate Boutique
+Innovative Entity, LLC
+Annette Cicinelli
+Lendero Inc.
+Test cm broker
+Testcmtest
+One Hour Fundings
+Davis & Davis IG
+Investment associates llc
+McMann Commercial Lending
+3 Start Capital Funding
+First World Mortgage
+GKMOUNTAIN HOMES,LLC
+Windy City Financial Services
+5 STAR REALTY, LLC
+Black Diamond Capital
+RS MORTGAGE 
+Quest Financial
+Diversified RCS
+Cavanaugh Investments LLC
+Orange Mountain Financial
+SM Loans
+Commercial Truth In Lending
+Tim Robinson & Company
+Steven Joo Lee
+CSC Financial Services
+United Dtates Finance LLC
+Fund-amental Capital
+Mortales Enterprise, LLC
+FUNDIO CLUB INC
+Dechar Investment LLC
+RDHR Investments LLC
+Fix and Flip Transactions
+RoxSar
+Hope Realty SVC., INC
+JBuysHouses
+kevin Ellis
+F&F Lending
+MSCO RE Advisors
+430 Brokerage
+IFC
+David D McElroy Real Estate
+Vantage Finance and Loans 
+Bma Funding & Commercial Properties
+easy access realty
+MINER CAPITAL FUNDING, LLC
+Elite Private Money Services Inc 
+CP Lending Group
+Beam Consulting
+Harvest Financial Associates, LLC
+New Dimension Lending, LLC
+Albert La Pointe, Consultant
+EnterActDFW - eXp Realty
+Northcoast Commercial Group LLC
+Midwest Private Lending
+Raymond Dingle LLC
+JTB Business Advisors, LLC
+Source Business Lending
+AI Funding Group LLLP
+Bayside Commercial Funding, Inc
+Redbridge Lending Partners
+Comm Capital Solutions
+RTS Enterprises LLC
+Benito
+RandEm Investments LLC
+JoVai Capital 
+Financing Investment Properties
+Linda Lopez
+Rehab Build
+Capital Finance Inc
+NVES Capital
+Cb Holdings Management & Group, Inc.
+Mansa Von Investments
+Coastal Resource Capital, Llc
+511 Brokerage
+Push Test Brokerage
+NewBork 05112017-931p
+Some Broker
+Lali Realty
+Harvest Financial Associates
+Test Broker 05122017 0543 01
+Profinance Solutions
+Triad Realty Svc
+Bill Rapp Real Estate PLLC
+GorMun Loans and Development LLC
+Quickline Capital Partners, Inc
+North American Commercial Capital Inc
+Cornerstone Capital Advisors Inc.
+International Financial Capital, LLC
+ACF Commercial
+Incapital Group, Llc
+CapitalFront, LLc
+National Reo Lender, LLC
+Teligent Equity Group, Inc.
+Go Fund
+Bridge Hard Money MTG Brokers
+FigureOutFunding LLC 
+American Capital Mortgage Inc
+Make Sense Funding 
+Plazio LLC
+Rainstar Capital Group
+Dreamspots leasing
+Gem star 
+C21 Hard Money
+Common ground real estate services
+Jet Lending, LLC
+Fidelity Direct Mortgage 
+DS Pros Funding
+Bull Market Capital Finance
+Homestead
+Omni Universal Capital
+New Sphere Capital
+McClaire & Associates LLC
+Flucas & Flucas Realty
+Harmony Financial Group Inc
+Re/Max Leading Edge
+Capitol Credit Group
+J City Solutions
+Commercial Funding USA, LLC
+6117 Brokerage
+6117 new brokerage
+6117 new new brokerage
+Envision Funding Solutions
+D19 Brokers LLC
+Pharaoh Funds
+Goodwin REO Group
+White Stag Capital, LLC
+Canton Capital
+Design Lending Solutions 
+Equity Wave Lending
+Adelphos Capital, LLC
+ORION REAL ESTATE & FINANCIAL GROUP
+USA Private Money
+Tech Group Funding
+Nordberg Real Estate
+Trillion Capital, LLC
+Prime Start Capital LLC
+Tecumseh Parker Brown and Associates LLC
+H&H Preferred Real Estate
+IMC Money
+BHM,MTG BROKERS
+UP Homes Investments, LLC
+Brilliant money
+JB Funding Solutions 
+Transtech Processing Services Inc
+Halpern & Associates Mortgage Corp
+Veterans Home Solutions
+Midtown Credit, Inc.
+JB Realty
+J. P. G. CONSULTANT
+Amerifirst Home Loans, LLC
+Real Estate Solutions
+Bernard Feldman
+Hudson Capital Solutions
+Russell Capital Groups llc 
+Mega Source Funding LLC
+1st Eagle Mortgage
+GNC LLC
+CONQUERING DOMINION DEVELOPMENT GROUP, LLC
+im a company
+Mega Source Funding
+Exit Mortgage
+Stated Loans of America
+Reimagined Realty Group
+By the Bay Realty
+Acorn Capital Source, LLC
+Monumental Realty Services LLC
+Fack Borker
+FSB Group Inc
+New Beginning Financial Group, LLC
+Acquire Capital Plus LLC
+U DISTRICT HOUSING
+US Asset Realty
+Full Circle Housing LLC 
+Active Business Loans
+INTEGRITY FINANCIAL SERVICES
+USA Private Money
+Patriot Home Capital LLC
+GMG Consulting Services Corp.
+Capital Resources 4 U
+GoldStar Capital
+Worth Capital Markets LLC
+Gulf Coast Lending Services, Inc.
+FBC Funding 
+Confluence
+RBS Capital, LLC
+Arbitrage Capital Strategy LLC
+FICO Consultant Group
+ISource Lending
+Artos Capital
+Integrity Financial Services, LLC
+Commercial Capital, Ltd. 
+First Option Lending International
+Commercial Capital Unlimited, SDIRA
+Mint Capital
+The Santos Group, LLC.
+Classic Realty Group
+Prestige Real Estate Investments
+Simply Vegas
+Grand Global Ventures, Inc.
+Dunamis Capital Partners
+First Millennium Bank LLC
+Omni Capital Solutions
+Hunt Equity Group
+Navesink River Capital
+Vis Capital Venture LLC
+EasyWay2Loan 
+Global Trust Finance
+Chris Martin Jr., LLC
+Garden State Funding LLC
+71317 Brokerage
+Megadyne, LLC
+testing LLC
+World Business Lenders
+Commercial Capital Funding, Inc.
+Biz Loan 1
+Press Go Management
+TM Realty
+sterling&Kole Business Financing
+T-3 Commercial Capital
+Overtonenterprise
+Table Brokerage
+Circa Properties
+Private Money Lending Guide
+Anmarc Business Capital
+Test Brokerage 71817
+Brokerage 71817 v2
+G&G Commercial Capital, LLC
+Blueprint Investments LLC
+Diamond Commercial & Business Loans
+National Properties & Capital Resources, 
+EFUNDPRO
+NEW OPTIONS COMMERCIAL LENDING
+Capital Lending
+Dividend America Commercial Lending LLC
+DIVERSIFIED PRODUCTS INDUSTRIES296
+Dzata Commodities Limited
+Donald Gross & Associates
+Bailey's Doghouse
+Erica's Just Testing
+First merchants
+Schaffer Mortgage Corp
+Realty Financial Solutions Group
+Little City Investments, LLC
+Wealth Creation Partners 
+United First Capital, LLC
+LOS Test Broker 726
+Hot Homes ,Inc
+Dumas & Souma Associates
+Funding Solutions Financial
+Allnet Group Inc.
+Me Inc business solution  
+KElley Financial Solutions, LLC
+Spectrum Funding Group
+A.J.T.M. Financial Group
+Ascentium Capital, LLC
+Capital4urBusiness, LLC
+Valere Capital Solutions, LLC
+Property management
+Bayard Business Capital
+Infinity Capital LLC
+Scott Capital Lending Group Inc.
+Civic Business Financing
+Viper Swing Llc
+Financial Capital Solutions, Llc
+Financial Services
+Hard Money Company of Florida LLC 
+JS Real Estate Everyday
+BRM Advisors 
+Forever Homes CLE, LLC
+VANDA TAX & ACCOUNTING
+IPC Funding
+Ascension Investments LLC 
+Hard Money Lending 
+Brickell Capital Finance
+80217 Brokerage
+Banking Mortgage Services
+Test
+Dasrealestateinvestmentsllc
+Martin Financial Services, LLC
+ROI Advisory Group LLC
+Gregorio Vein, Inc.
+Greathouse Realestate Co
+Trident
+Blue Mogul Enterprise/dba: Gemcom
+CalWest Alliance LLC
+Regenesys, LLC
+Ah & group inc
+The Robinson Financial Group
+Muth Capital, LLC
+American Business Financing
+Monette Properties LLC 
+UNLIMITED FINANCIAL CORP
+Harper Financial LLC
+JMS Global Enterprises Inc.
+Vanguard Visionary Network LLC
+Global Acquisitions & Development Ltd, LL
+Next-Financing
+SDFDF
+Great Dane Capital LLC
+Aries Business Group
+MOVON INC
+Gravity Funding, LLC
+Test Mouse Rat
+GLG Capital Corporation 
+RTO Properties
+International Private Capital
+Continuous Capital Funding, Llc
+ASAP International
+MyTMAR
+ARS PROPERTY SOLUTIONS, LLC 
+Peoples bank and trust
+Excelsis FSG
+JT Group Inc
+WATERS INCORPORATED
+Unique Property Group 
+Grow Financial Services LLC
+First Capital Solutions, LLC
+Vision Mortgage Company, Ltd.
+Champagne Insurance & Investments LLC
+Excel Mortgage Network, Inc
+Apex Financial Group LLC
+Tazumal Group
+Fix and Flippers
+J&S Strategies
+U.S. Homeowners
+Goode-Taylor Enterprises
+PCFG
+Sierra Commercial Capital
+HBD1 Consulting LLC
+Smell
+SPHERES NETWORK, LLC
+Arlington Partners Inc
+1st Choice Lending
+Impact Capital Lending, LLC
+Apollo Commercial, LLC
+Everything Real Estate, LLC
+The Right Choice Mortgage LLC
+Horizon builders,llc
+Got Mortgage
+AMERICAN FORCE FINANCIAL, LLC
+Investors Capital
+3J bar K, LLC
+Harper Funding LLC
+Tallgrass Financial
+CASAMERICA REALTORS, INC
+Desert Star Commercial Consulting
+Mortgage First Direct, Inc.
+Brass Financial Group
+Sothebys International Realty
+John jannello llc
+Alliance Commercial Lending, LLC
+new brokerage test 22222
+Alliance Commercial Lending
+A &  M Financial Group
+Victory Point Capital, LLC
+Source Commercial Funding
+World Trade Mortgage
+Alliance Realty Advisors, Inc.
+Coastal Breeze Investment Services
+The Avfund Group 
+Evolve Bank & Trust
+Resurrection Financial, Inc
+The Corporate Advisory
+Horizon Lenders
+Commercial Mortgage Unlimited
+Independent Paralegal Services
+SC Lending Group
+Aaron Hartman Realty Closing Solutions
+TestBroker-08292017
+Dewlyn Capital Partners
+Little We Buy Homes Cash
+Ironhorse LLC
+Nexgen Concepts 
+Dry Branch Capital LLC
+Clover Capital Group
+Velocity Commercial Investments Inc
+PrivaCo Holdings & Investments, Inc.
+affiliate broker
+Monzelle Financial Services
+TYLER LENDING GROUP
+Paramount Property Solutions, LLC
+Essentiv Financial
+Investor Loans Plus
+A-Key Funding Solutions
+Option Real Estate Services Inc.
+Dwayne mitchell
+First Mutual
+Ando Capital Inc.
+Vankeith Commercial Capital
+M&h Consulting
+Rosnorth LLC
+Zoryn Capital LLC.
+Bulldog REI Funding
+Relion Management Inc
+Adworx Local LLC
+Fake
+CLB Lending
+ReVamp Capital Funding Group Inc
+Money Broker
+Hollis Commercial Funding
+Gotham Capital
+Father & Son Lending
+Helios Ventures, LLC
+2020 REI
+EDM Capital LLC
+NexLevel Consulting Group
+LBC Capital
+Armando mendoza
+Unique Loan Origination
+Uk Thiang
+Brock Salazar
+914 Test Brokeragejghfj fghj fghj
+Brokerbe INC
+Summit Homes & Land
+Capital Sense Funding
+Capital Funding Services Corp
+Ros Realty Partners, Inc.
+Full Force Funding, LLC
+Cross Country Equity, LLC
+Cannon Hill Funding Group
+Encode Fine Properties
+Dove Realty, Inc.
+OHMStar Home Lending
+SAWCC Realty
+California Property Group
+Progressive Realty, Inc
+UP and Associates Realtors
+Icon Properties
+Asset Real Estate
+Exit Nelson Realty
+Continental Realtors LLC
+RE/MAX Regency
+Four Point Realty, LLC
+Union Pacific Realty
+Keller Williams Realty La Jolla
+Revap Group Capital
+Trammell & Co.
+EPIC Strategies
+Brownstone Realty Group
+Paradise Realtors, LLC
+Priam Financial Services
+Fq consolidating llc
+Village Real Estate Company, LLC
+JNC Funding LLC
+World Class Realty
+FCB COMMERCIAL LENDING LLC
+Atlantic Realty and Properties Investm
+Federated Homes Realty, Inc
+Remax zone
+Espacios Realty Network 
+Daily Homes Real Estate
+Catalyst Lending
+Sycamore Capital
+Triple H Realty Solutions, LLC.
+Melrose Advisors 
+Amerecorp Financial
+Equity Funding Source, Inc
+David Wesley Real Estate
+Jackson Property Solutions, LLC
+Trinity Real Estate Services
+MJ Commercial Capital, LLC
+United 1 Mortgage Corporation
+New Island Investments Corp.
+Commercial Loan Specialist (CLS)
+AAA PLUS FINANCIAL GROUP, INC.
+The Triwest Group
+BEVERLY ROYCE MANAGEMENT CORPORATION
+Kimsco
+Brentech Management Company 
+Moonstone Contracting LLC
+Relan mortgage
+RDM Capital Funding
+Limitless LLc
+Terrestrial Development, LLC
+CBC Real Estate
+Brokerage Test 928
+Lore Enterprises, LLC
+DEKAssociates
+Brokerage 929
+Elite Mortgage Corporation
+Alternative Funding Partners
+Upstreet Financial
+Open World Technologies Inc
+Wise Investments, Inc
+AK Enteprise Group Inc
+D and E Gardner, LLC dba Midwest Lending Cons
+eLEND
+Leda Group 
+Level 4 Funding LLC
+Fci Financial Services, Inc
+Kingdom Financial Solutions LLC
+Sahara Homes, INC
+Mortgage Quest LLC DBA Commercial Capital
+Best Business Brokers
+Geneva Financial, LLC
+DEMortgage Services
+Flip Funding LLC
+MyCompany
+Blue Sky Advisors
+Grey Hill Capital
+Keller Williams NYC
+Exodus Real Estate Holdings
+Aljoe and Aljoe, LLC
+Realty Executives of Maui, HI LLC
+RCP Partners Inc
+Investors Funding Group LLC
+CEC Business Funding
+Investor Financial
+The Gardner Empire Real Estate
+Quest Funding Services
+Black Diamond Investments
+TORCHWOOD
+Northern United Mortgage LLC 
+Marymont investments llc
+Test
+Nous
+Lending Source, LLC
+AFNI
+American Credit Freedom
+LeadVet
+Lord and King Associates LLC
+WilsonChiang
+8606 Financial 
+USA Private Money
+Metro Mortgage Group, LLC
+Jonbeck Consulting LLC
+Oxford Business Capital LLC
+Idea Funding Services, LLC
+South County Properties, llc
+Kershaw Financial 
+Imperial Hope Financial
+Nicola Harper
+Jbfunding
+JS Properties
+Home Loan Source
+Bowers financial services
+The Mortgage Capital Group LLC
+Lynne Jackson 
+Integrity Finance
+Detroit Property Improvement & Developmen
+Eagle Prime Capital LLC
+JMS Global Enterprises Inc.
+Freedom First Commercial Capital
+PLACE RIVERVIEW USA LLC
+Growth Lending Group
+Americap Commercial Funding, LLC
+Imperaline, Inc.
+Camelback Mortgage
+Entheos Mortgage
+J. Moss and Co
+Fortis Capital Corp
+Compass Capital Inc
+P2 Capital Funding Group, Inc
+Exceptional Financial Solutions Inc.
+Upward Capital Funding
+Brick Investment Lending
+Elite Capital Financing
+TD Funding Solutions
+Rachel Valentine Consulting
+Ciba Capital
+Complete Business Capital
+Pm lending corp
+Prmg
+MC Capital LLC
+Nolan Merritt
+Fore Runner Funding
+NJH Business Services 
+Sun Beam Financial
+Bonafide Funding
+M1 Capital Corp 
+RH Home Team, Inc
+Eagle Mortgage Company
+Ronald Fraser
+Endeavor Mortgage Group Inc
+Latin Loans
+Grandview Lending, Inc
+EBBTIDE COMMERCIAL CAPITAL
+Rkf properties LLC
+All Investments Group, Inc
+Citadel Funding
+Carlos Ivie dba Private Cash Funding
+RHF Chicago, LLC
+Genesis Financial Solutions
+Pegasus Funding
+Delarde
+Moors Capital Group LLC
+Himsl Consulting, LLC
+M-pire Business Solutions
+Financial Guru
+M&amp;h Consulting
+1967
+Search Light Lending
+realty home advisors
+Realty International
+KELLER WILLIAMS REALTY
+I SECURE CAPITAL
+CAPITAL rESOURCES
+STEPHANIE D SMITH
+R.E.I. Problem Solvers, LLC
+Eagle Commercial Funding Solutions
+AA Mortgage
+DerCam Capital Advisors, LLC
+Turnkey Capital Group, LLC
+Mortgage Wealth Advisors, Inc.
+Silverthread Capital, LLC.
+Icr Capital, Inc
+ACG Business Solutions LLC
+Cornerstone Commercial Capital 
+Benchmark Commercial Capital Group
+Loan Gallery
+J Simone Consulting
+Pacific West Group
+Eagle realty
+Ware Capital
+BOCA RECEIAVABLE LLC
+Mid-Atlantic Commercial Capital LLC
+Hard Money Global
+Tyler W. Morris, Inc.
+Diverse Financial Group
+Blackstone Consulting Services Inc
+Florida Mortgage Pros LLC
+Capital Network Group
+Backyard Mortgage Corp
+Lending Logistics, Llc
+JACOG LLC
+Transwestern Mortgages, Inc.
+Orbit Commercial Capital LLC
+Sunset Heard and Co
+CAMPBELL & SONS CAPITAL
+Birdsong Business Group, LLC
+T D E  Consulting Company, LLC
+New Leaf Funding LLC
+BlendingCap LLC
+Royal Oak Realty Trust
+Guaranteed Business Financing LLC
+Profit Max LLC
+Tier 1 Alliance
+Christian Roberts Mortgage
+Haus Of Margaret Property Solutions LLC
+Connections Capital
+Clarity One Realty Group LLC
+NMM Loans
+Valnar Home Lending Inc
+Rios Financial Group LLC
+GTC Brokerage
+RHJ Group LLC
+Custom Technology Communicationss or CTC Cons
+Joe McCaslin
+Noble business advisors
+JDB Solutions LLC
+MAUCH CHUNK ENTERPRISE 
+EMG Financial Services
+Money Smart LLC
+Vissor Commercial Capital
+Clingan Capital Funding
+Smooth Sailing 
+GoodLife Solutions
+ATLAS FINANCIAL ASSET GROUP
+Premier Investments Chicago
+WilliamCoit.com
+Future Services LLC
+Corporate Capital Funding 
+Eagle Capital Fund 1, LLC
+MILLION MILES ENTERPRISES, LLC
+OASIS CAPITAL FUNDING
+Real Estate Solution Services
+Bric, Llc
+Financial Innovations Real Estate Corporation
+Nym Realty Group
+Summit Capital Financing LLC
+Mega Money Brokers, LLC
+Nv Capital Corporation Llc
+Andrea Crockwell TPO
+Premier Group
+Capital Credit Consulting
+KM TEST
+FMF real estate 
+Sutton Equity
+Integrity Commercial Loans LLC
+Mid Atlantic Lending Services, LLC
+Capital Access Mortgage, LLC
+Signature Capital, Inc.
+Ansari tax
+Autumnwood Funding
+Boston Commercial Lending
+Whisper capital
+Delroy Real Estate Inc
+Syngeq Consulting
+Canyon Mortgage Corp.
+New Option Commercial Lending
+DTI Mortgage Capital
+Urban Capital Funding
+Pelican Home Lending
+Steve Dalby
+Business Credit Options, LLC 
+Maxsell Realty
+Core Investment Management Group, LLC
+Dewitt Real Estate and Auction 
+Sentra Funding, LLC
+Dreamcatcher Investment group 
+Pin Point PS
+Glamour Enterprises, LLC
+Perfect choice mkt
+Hollins & Associates
+Cleaning solutions 360
+Towle Farm Mortgage Investors Llc
+East Coast Distributors
+John Barbato Consultant
+Mortgage Advisors Of America
+World Business Lenders, LLC
+Blacklight Real Property Services, LLC
+Trinity Services Corporation
+TBD
+Avniel Commercial Funding, Inc
+Venture Street Capital, Llc
+Florida Realty Investments 
+Saturn Mortgage 
+Arizona Lending Specialists, LLC
+Price Equity Partners 
+Golden Gryphon Commercial Lending
+Ralph Vargas 
+Isha Capital Advisors Inc
+Ray Hadod
+S RICHARDSON HOLDINGS
+LI Finding Corp
+TBD
+PREMIER CREDIT SERVICES, LLC
+Save-a-cent consignment 
+Jesus Mendoza LLC
+SBFG LLC
+Lara Magallon Broker 
+Bennett Capital Partners, LLC
+ABO CAPITAL
+MBA Mortgage
+AVNT Capital Inc
+ECLIPSE FUNDING
+CapVest LLC
+Williams Realty and Investments
+Slt mortgage and realty 
+Planet Service Financial
+Grande Mortgages LLC
+will
+Independent Business Loan Broker
+RECON Capital
+Commercial Mortgage Funding
+luxury pads LLC
+First Liberty Funding Corp
+A to Z Capital, Inc
+Green Leaf Money, LLC
+USA Private Money
+Colorado Lending Team
+Tru Hard Money
+Global Edge
+Chris Caviness
+Silver Relm Business Capital 
+Ny Virtual Realty
+American Intermutual Agency, Inc
+9w valley cottage llc
+LSD Holding Inc.
+Baker Collins & Co.
+Related Acquisition Group LLC
+Leader One 
+1st Industrial Commercial Lending & Consu
+First United Funding
+Tiffany Rocks, Inc
+Paris York Capital 
+Five Star Realty Services,inc.
+Interim Capital Lending Solutions
+Benjamin Jackson & Associates LLC
+USA Private Money
+Blanchford Properties, LLC
+WiseCap Funding
+WeGotFunding LLC
+RPL Commercial Capital LLC
+Patriot Commercial Lending Solutions
+HMF Capital Solutions, LLC
+Lincoln Financial LLC
+WBMI, Inc.
+Tottleben Financial Services
+Van Zant Capital
+Bitterman Capital Commercial Lending LLC 
+Kingdom Resources Dev.
+king invest solutions
+Fidelity Funding
+NRE Capital Partners LLC
+M Steele Investments LLC
+Spark Group, LLC dba Spark Mortgage Capital
+PBI GLOBAL FUNDING, LLC
+Household Affairs,LLC
+Sand Hill Financial
+Dorothy Silva Group LLC
+DOMLEN Capital Group
+Will Testing 213
+Hub City Lending 
+Private Lending Group
+Builder Funding
+Equity Advisors
+INTEGRITY CREDIT CORPORATION
+Test456
+Union of Credit
+Drona Realty & Mortgages
+Gold Eagle Financial Group
+Schwartz&co
+Aries Capital
+Point ofview Intl Mtg
+Quante
+Darnichin Group
+Nexus Commercial Funding
+New Penn Financial
+Harrison Lending Group
+Specialty Mortgage Origination
+CRE Finance Advisors
+Brighton Consulting, LLC
+SkyPass Capital
+3059 Route 9 LLC
+BIZLOAN1 CAPITAL
+Gimmie Capital
+Intro Business Solutions
+Bankit capital
+Global Funding Platform
+David Foster Financial Services
+MKV Real Estate LLC
+Prestige Mortgage
+GH Real Estate Consulting Inc
+A & M Consultants, Inc
+Summit View Estates
+Start My Lease
+RESQ Firm LLC
+Ibiz Development
+Home Alliance Realty, LLC
+Pete Motta
+KRA & Associates
+Platinum Home Mortgage 
+Lady-Flamingo LLC
+TCH Development
+Wall Street Capital
+Future Point Capital
+Elevated Financing LLC
+Edbar Corporate Credit, Inc.
+Zenith Solutions
+KW Capital Partners Business Finance
+BIZ Financial Services
+907 commercial loans
+Caedmon Commercial Capital
+Tangency Point Investments And Realty
+PFSource
+Capital Commercial Financing
+Master capital solutions 
+HB Marketing
+MB Marketing
+Select Capital Funding
+IGC Unlimited Funding
+TCM
+Brass Financial Group
+Dreams Financial 
+LP Capital Group, LLC
+AMERICANBUSINESSLOANEXPRESS.COM
+Brass Financial Group
+Federal Hill Mortgage
+Nola Better Homes Llc
+Sole Proprietorship
+DFC Funding
+Kimco Capital LLC
+Hand Picked LLC
+Crossroads Capital Finance Group
+Sinai Investment, LLC
+Innovations Funding LLC
+Mr. Mortgage LLC
+RSA Funding
+Rehab Lend Llc
+Phoenix Real Estate Investment
+BOC Group Inc
+Ethan Alexander LLC
+Scorpion Business Financing
+Omni Commercial Capital
+Key Commercial Lending
+ARM Capital Group
+Prime One Capital
+Find Us Money
+JPL Capital Funding Solutions
+Exeter 1031 Exchange Services LLC
+Red Carpet Properties, LLC
+PRMG, INC.
+Rising Star Consultants
+NeXGen Real Estate
+Hartmann Development LLC
+Power Commercial Lending 
+Amiachi Property Advisers
+Pinnacle Commercial Lending
+Lake Financial
+Willow Financial Consulting, Inc.
+WIH
+bsa funding corp
+FixFlipLender.com
+Valerie Zuckerberg 
+Catalan Grp LLC
+New City Financial
+The Private Commercial Finance & Capital 
+Illinois Consultants Services Inc
+Toliver & Bancroft
+Gary Miljour
+Vincam Capital Funding Group
+CapitalRx
+The Mortgage Place
+Platinum Financing Group
+Genesis Solutions
+Chicago REIA
+Capitol Credit Group, LLC
+Grandson Morgan Jr. INC
+SB Loans
+Valnar Home Lending Inc. 
+Rysenia Capital LLC
+DBA. James Sullivan
+South Wind Financial
+Business Lending Pro
+GoFunding Capital
+Fast Homes & Fast Loans, LLC
+Modern Men Developers LLC
+Jared Rine
+Property Works New England
+Hemisphere Credit Solutions & Financial S
+Jani Realty & Investments Inc.
+Eminent Lending LLC
+New Frontier Financial
+Dqdqw 
+Commercial Property & Business Solutions
+JMS, LLC
+Chartered Financial Group
+Duc and Co Capital Finance
+NE Capital Funding
+David Le & Associates Llc
+Global Realty Investor Trust Management
+UNITED SIMPLE MORTGAGE
+Melvin Avante
+Coast to Coast Accounting and finance
+HardMoney.com
+Lending Logistics Llc
+Barthelemy Commercial Capital 
+D&H Financial Services 
+Unlimited capital Group
+Wallstreet Wholesale Lender LLC
+DARA MORTGAGE
+Fortune 2 Funding
+Investment Property Loan Exchange
+Rembert Financial Investment Services
+Totus Group
+COAST TO COAST FINANCIAL ENTERPRISE
+Empower America Enterprises
+SCS Capital Group LLC
+Saxon Spencer Capital Partners
+Maranatha Funding Corp.
+BPN
+Bruce A Miskimon II DBA Bruce A Miskimon II
+Trans-Bay Financial Inc.
+Nusoma Capital
+Clemons Investments LLC 
+518 Broker
+Brand New Broker
+Guy Broker
+Broker 521
+Steele and Reese Traders
+Becker and Spears Trading
+Add Contact Broker
+Chris's Broker
+Corresponding Broker
+Fischer Walker Trading
+Bryan Walton Co
+Oneal and Mack LLC
+Morris and Carrillo Inc
+Koch Cox Trading
+Lynch Barton Inc
+Gomez and Briggs Co
+Mcgowan Whitaker LLC
+Saunders Fields Trading
+Juarez and Porter Associates
+Abbott Nash Plc
+Roth and Michael Associates
+Fuller and Kennedy Associates
+Ratliff and Wong LLC
+Email Test Broker
+Builder Funding
+Control
+Blevins and Gregory LLC
+White Mccullough Co
+Davenport and Mack Associates
+921 Broker man
+Another Brokerage
+Newbroker11
+Walter and Chan Co
+Todd and Kaufman Plc
+Yet another broker
+Round two test broker
+One more test
+Baker Mcknight Associates
+Castillo Scott Trading
+Broker Registration test
+Broker Shortcode test
+Petersen Donovan LLC
+Hogan Bean Associates
+Test brokerage yahoo
+Testbrokerage aslkfjl
+Wlekianiognei test
+Test BairesDev.com
+Test 2 Bairesdev.com
+Test 3 Bairesdev.com
+Bridge Lend
+''Bri'd'ge L'en'
+Giribiri
+Gabawa
+Gaba
+TESTTEST
+Testing broker 0410
+Tester broker 2 0410
+Test broker 3 0410
+Broker 4 test 0411
+Some Corporation
+Test brok 0411
+JMLending
+Test broker 10412
+Test brok 04122
+Test broker 04123
+Test broker 04124
+Franklin Real Estate Partners
+Test brok 04125
+Test 04126
+Test broker 04126
+Testing This Form
+Tester 04152`
+Test guy 0416
+Test guy 04162
+Testerguy 0416
+Testsere 0416
+Testsere 04162
+Test 04165
+Test 041651
+Test 041652
+Etstes 0416
+A New Form Thing
+Tis Erica
+Testeereatg
+Testsas
+Dfgdfgdgfdsg
+Test broker guy 0425
+Legal Corp Solutions, LLC
+23343
+A Newly Created One
+Bug Broker
+Bug Broker
+bug broker2
+Bug Broker4
+Jack Brokerage
+API Testers
+Registration Test Co.
+5477 Test Co.
+5477 Test Co2
+Newbie Brokers
+Newbie Brokers 2
+Newbie Brokers 3
+Newbie Brokers 4
+Newbie Brokers 5
+Regression Broker
+XYZ Capital Brokers
+Bridge Lend
+Some brokerage company
+Tealk al wle
+dfsfdgfsfdgfsdgfdgfd
+Laymen Brokers
+New API Brokers
+New API2 Brokers
+New API3 Brokers
+New API4 Brokers
+New API5 Brokers
+Regression Brokers
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is Select A Brokerage
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is 
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is 
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is 
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is 
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is 
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is 
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is 
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is 
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is 
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Element found, inner text of element is 
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Exception thrownno such element: Unable to locate element: {"method":"css selector","selector":"select[id='brokerage_id'] >option"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.1.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64895}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 55f089a3bfb51043491ac5c0558cf8c7
+*** Element info: {Using=css selector, value=select[id='brokerage_id'] >option}
+
+trying to find element By.cssSelector: select[id='brokerage_id'] >option
+Exception thrownno such element: Unable to locate element: {"method":"css selector","selector":"select[id='brokerage_id'] >option"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.1.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64895}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 55f089a3bfb51043491ac5c0558cf8c7
+*** Element info: {Using=css selector, value=select[id='brokerage_id'] >option}
+

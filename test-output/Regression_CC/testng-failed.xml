@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression_CC]">
+  <listeners>
+    <listener class-name="bln.util.ExtentReporterNG"/>
+  </listeners>
+  <test name="Regression_CC_Bln(failed)">
+    <classes>
+      <class name="bln.test.automation.closingcoordinators.ClosingCoordinatorsTestScripts">
+        <methods>
+          <include name="updateProfile"/>
+          <include name="initializeDriver"/>
+          <include name="createReportFile"/>
+          <include name="parseData"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- bln.test.automation.closingcoordinators.ClosingCoordinatorsTestScripts -->
+    </classes>
+  </test> <!-- Regression_CC_Bln(failed) -->
+</suite> <!-- Failed suite [Regression_CC] -->

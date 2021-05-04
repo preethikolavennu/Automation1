@@ -1,0 +1,3 @@
+Navigating to URL:https://seleniumbroker.blnsoftware.com/wpv3/
+Navigated to URL:https://seleniumbroker.blnsoftware.com/wpv3/
+trying to find element By.cssSelector: select[id='w_property_state']

@@ -1,0 +1,134 @@
+Navigating to URL:https://blnstaging.bridgeloannetwork.com/members/login
+Navigated to URL:https://blnstaging.bridgeloannetwork.com/members/login
+trying to find element By.id: login
+Element found, inner text of element is 
+trying to find element By.id: login
+Element found, inner text of element is 
+trying to find element By.id: password
+Element found, inner text of element is 
+trying to find element By.id: submit_0
+Element found, inner text of element is 
+sent keys to element [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> id: login] and keyed data is null
+sent keys to element [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> id: login] and keyed data is [harika@bridgeloannetwork.com]
+sent keys to element [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> id: login] and keyed data is [?]
+sent keys to element [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> id: password] and keyed data is null
+sent keys to element [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> id: password] and keyed data is [Testingdone29$]
+trying to click on [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> id: submit_0]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61782}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 197a6cf246d467fd2e91a544bbdd787f
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> id: submit_0]
+trying to find element By.xpath: //a[contains(text(),'Users')]
+Element found, inner text of element is USERS
+trying to click on [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> xpath: //a[contains(text(),'Users')]]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61782}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 197a6cf246d467fd2e91a544bbdd787f
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> xpath: //a[contains(text(),'Users')]]
+trying to find element By.xpath: //a[contains(text(),'Regression Broker')]
+Element found, inner text of element is Regression Broker
+trying to click on [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> xpath: //a[contains(text(),'Regression Broker')]]
+Clicked on element [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> xpath: //a[contains(text(),'Regression Broker')]] With inner text Regression Broker
+trying to find element By.xpath: //a[contains(text(),'Harik Vegesna')]
+Element found, inner text of element is Harik Vegesna
+trying to click on [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> xpath: //a[contains(text(),'Harik Vegesna')]]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61782}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 197a6cf246d467fd2e91a544bbdd787f
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> xpath: //a[contains(text(),'Harik Vegesna')]]
+trying to find element By.xpath: //a[contains(text(),'LOAN REQUESTS')]
+Element found, inner text of element is LOAN REQUESTS
+trying to click on [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> xpath: //a[contains(text(),'LOAN REQUESTS')]]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61782}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 197a6cf246d467fd2e91a544bbdd787f
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> xpath: //a[contains(text(),'LOAN REQUESTS')]]
+trying to find element By.xpath: (//div[@tabulator-field='loan_application_id'])[2]
+Element found, inner text of element is 57401
+trying to find element By.cssSelector: #criteria
+Element found, inner text of element is 
+trying to click on [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> css selector: #criteria]
+Clicked on element [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> css selector: #criteria] With inner text 
+trying to find element By.cssSelector: #criteria
+Element found, inner text of element is 
+sent keys to element [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> css selector: #criteria] and keyed data is [57401]
+trying to find element By.cssSelector: input[value='Search']
+Element found, inner text of element is 
+trying to click on [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> css selector: input[value='Search']]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61782}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 197a6cf246d467fd2e91a544bbdd787f
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> css selector: input[value='Search']]
+trying to find element By.cssSelector: div[class^='tabulator-row']
+Element found, inner text of element is Actions
+57401
+Testcase , Harika
+Test LOS Lender
+$50,000.00
+720 fifth avenue, New YorkNew York, NY, 10019
+Lead
+01/12/2021 7:40 AM
+01/27/2021
+Delayed Purchase
+Single Family
+trying to find element By.xpath: //button[contains(text(),'Reset Search')]
+Element found, inner text of element is RESET SEARCH
+trying to click on [[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> xpath: //button[contains(text(),'Reset Search')]]
+Exception thrownstale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-HE38V3R', ip: '192.168.0.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\HARIKA~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61782}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 197a6cf246d467fd2e91a544bbdd787f
+Exception while reading inner text for element[[ChromeDriver: chrome on XP (197a6cf246d467fd2e91a544bbdd787f)] -> xpath: //button[contains(text(),'Reset Search')]]
+trying to find element By.cssSelector: div[class^='tabulator-row']
+Element found, inner text of element is Actions
+57401
+Testcase , Harika
+Test LOS Lender
+$50,000.00
+720 fifth avenue, New YorkNew York, NY, 10019
+Lead
+01/12/2021 7:40 AM
+01/27/2021
+Delayed Purchase
+Single Family

@@ -1,0 +1,180 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>BLNProject</groupId>
+  <artifactId>com.org.Automation</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  <name>Automation</name>
+  <!--<url>http://maven.apache.org</url>   -->
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    
+    <internal.nexus.public.url>http://su-archivapr01/nexus/content/groups/public/</internal.nexus.public.url>
+    <!-- all maven plugin setup properties -->
+		<maven-eclipse-plugin-version>2.9</maven-eclipse-plugin-version>
+		<maven-compiler-plugin-version>3.1</maven-compiler-plugin-version>
+		<maven-dependency-plugin-version>2.8</maven-dependency-plugin-version>
+		<maven-surefire-plugin-version>2.19.1</maven-surefire-plugin-version>
+
+
+		<!-- web tools Projectsetup properties -->
+		<wtp.version>2.0</wtp.version>
+
+		<!-- java and j2ee dependencies jars and versions -->
+		<java-version>1.8</java-version>
+    
+  </properties>
+  <!-- repositories setup -->
+	<repositories>
+		<repository>
+			<id>internal</id>
+			<name>Nexus Managed Internal Repository</name>
+			<url>${internal.nexus.public.url}</url>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+		</repository>
+		<!-- <repository>
+			<id>maven2-repository.dev.java.net</id>
+			<name>Java.net Repository for Maven</name>
+			<url>${saucelabs.url}</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>-->
+	</repositories>
+
+
+	<!-- build plugin setup -->
+	<build>
+		<plugins>
+
+			<!-- maven eclipse plugin setup -->
+			<plugin>
+				<artifactId>maven-eclipse-plugin</artifactId>
+				<version>${maven-eclipse-plugin-version}</version>
+				<configuration>
+					<wtpversion>${wtp.version}</wtpversion>
+					<downloadSources>true</downloadSources>
+					<downloadJavadocs>false</downloadJavadocs>
+				</configuration>
+			</plugin>
+			
+
+			<!-- maven compiler plugin setup -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>${maven-compiler-plugin-version}</version>
+				<configuration>
+					<source>${java-version}</source>
+					<target>${java-version}</target>
+					<compilerArgument>-Xlint:all</compilerArgument>
+					<showWarnings>true</showWarnings>
+					<showDeprecation>true</showDeprecation>
+				</configuration>
+			</plugin>
+
+			<!-- maven dependency plugin setup -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+				<version>${maven-dependency-plugin-version}</version>
+				<!--  <configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+					<fork>true</fork>
+					<executable>C:\Program Files\Java\jdk1.8.0_221\bin\javac</executable>
+				</configuration> -->
+			</plugin>
+
+			<!-- maven surefire plugin setup -->
+	
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-surefire-plugin</artifactId>
+			 <version>2.19.1</version>
+			<configuration>
+				<!-- <forkMode>always</forkMode> -->
+				<forkCount>1</forkCount>
+			    <reuseForks>true</reuseForks>
+				<systemPropertyVariables>
+						<reporter.debug>false</reporter.debug>
+					</systemPropertyVariables>
+					<skipTests>false</skipTests>
+                   <suiteXmlFiles>
+                   <suiteXmlFile>src/test/resources/Phase1/${suiteXmlFile}.xml</suiteXmlFile>
+                    <!-- <suiteXmlFile>src/test/resources/Phase1/NewFile.xml</suiteXmlFile> -->
+                   </suiteXmlFiles>
+               </configuration>
+		</plugin>
+	</plugins>
+
+	</build>
+	
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.11</version>
+      <!--<scope>test</scope>-->
+    </dependency>
+    <dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>3.141.59</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>3.9</version>
+			<exclusions>
+				<exclusion>
+					<artifactId>xml-apis</artifactId>
+					<groupId>xml-apis</groupId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>javax.mail</groupId>
+			<artifactId>mail</artifactId>
+			<version>1.4.5</version>
+		</dependency>
+		
+
+		<dependency>
+			<groupId>com.relevantcodes</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>2.41.2</version>
+		</dependency>
+
+		 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>6.14.3</version>
+    <!--<scope>test</scope>-->
+</dependency>
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-lang3</artifactId>
+    <version>3.9</version>
+</dependency>
+<dependency>
+    <groupId>commons-io</groupId>
+    <artifactId>commons-io</artifactId>
+    <version>2.6</version>
+</dependency>
+ 
+ </dependencies>
+  
+</project>

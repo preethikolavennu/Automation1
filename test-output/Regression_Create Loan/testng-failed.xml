@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Regression_Create Loan]" parallel="methods">
+  <listeners>
+    <listener class-name="bln.util.ExtentReporterNG"/>
+  </listeners>
+  <test name="Regression_CreateLoan_Bln(failed)" parallel="methods">
+    <classes>
+      <class name="BLNProject.Automation.NewLoanRequest">
+        <methods>
+          <include name="CreateSoftCreditPull"/>
+          <include name="createReportFile"/>
+          <include name="parseData"/>
+          <include name="initializeDriver"/>
+          <include name="LoginBLN"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- BLNProject.Automation.NewLoanRequest -->
+    </classes>
+  </test> <!-- Regression_CreateLoan_Bln(failed) -->
+</suite> <!-- Failed suite [Regression_Create Loan] -->

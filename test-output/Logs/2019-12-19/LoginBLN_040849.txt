@@ -1,0 +1,16 @@
+Navigating to URL:https://blnstaging.bridgeloannetwork.com/members/login
+Navigated to URL:https://blnstaging.bridgeloannetwork.com/members/login
+trying to find element By.id: login
+Element found, inner text of element is 
+trying to find element By.id: login
+Element found, inner text of element is 
+trying to find element By.id: password
+Element found, inner text of element is 
+trying to find element By.id: submit_0
+Element found, inner text of element is 
+sent keys to element [[ChromeDriver: chrome on XP (dd8ce7e475680e800edde12826f11dd4)] -> id: login] and keyed data is null
+sent keys to element [[ChromeDriver: chrome on XP (dd8ce7e475680e800edde12826f11dd4)] -> id: login] and keyed data is [harika@bridgeloannetwork.com]
+sent keys to element [[ChromeDriver: chrome on XP (dd8ce7e475680e800edde12826f11dd4)] -> id: login] and keyed data is [?]
+sent keys to element [[ChromeDriver: chrome on XP (dd8ce7e475680e800edde12826f11dd4)] -> id: password] and keyed data is null
+sent keys to element [[ChromeDriver: chrome on XP (dd8ce7e475680e800edde12826f11dd4)] -> id: password] and keyed data is [Testingdone29$]
+trying to click on [[ChromeDriver: chrome on XP (dd8ce7e475680e800edde12826f11dd4)] -> id: submit_0]

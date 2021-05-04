@@ -1,0 +1,12 @@
+Navigating to URL:https://blnstaging.bridgeloannetwork.com/members/login
+Navigated to URL:https://blnstaging.bridgeloannetwork.com/members/login
+trying to find element By.id: login
+Element found, inner text of element is 
+trying to find element By.id: login
+Element found, inner text of element is 
+trying to find element By.id: password
+Element found, inner text of element is 
+trying to find element By.id: submit_0
+Element found, inner text of element is 
+sent keys to element [[ChromeDriver: chrome on XP (cb23778c8fa7b38509286eef2fca1fa6)] -> id: login] and keyed data is null
+sent keys to element [[ChromeDriver: chrome on XP (cb23778c8fa7b38509286eef2fca1fa6)] -> id: login] and keyed data is [harika@bridgeloannetwork.com]

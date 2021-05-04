@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+ <suite name="Regression_Create Loan" parallel="methods" verbose="1" thread-count="5"> 
+<!--<suite name="Regression_Create Loan" > -->
+	<listeners>
+		<listener class-name="bln.util.ExtentReporterNG" />
+	</listeners>
+	<test name="Regression_CreateLoan_Bln">
+		<method-selectors>
+		<method-selector>
+			<script language="beanshell"><![CDATA[groups.containsKey("Regression") && groups.containsKey("Smoke")]]>
+			</script>
+		</method-selector>
+	</method-selectors>
+		<classes>
+				<class name="BLNProject.Automation.NewLoanRequest" />
+		</classes>
+	</test>
+</suite>

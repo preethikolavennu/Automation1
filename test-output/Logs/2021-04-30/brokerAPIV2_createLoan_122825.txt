@@ -1,0 +1,2 @@
+Navigating to URL:https://seleniumbroker.blnsoftware.com/wpv2/
+Navigated to URL:https://seleniumbroker.blnsoftware.com/wpv2/

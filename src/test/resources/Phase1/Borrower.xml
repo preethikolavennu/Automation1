@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression_Borrower" parallel="methods" verbose="1" thread-count="4">  
+<!--<suite name="Regression_Borrower" >-->
+	<listeners>
+		<listener class-name="bln.util.ExtentReporterNG" />
+	</listeners>
+	<test name="Regression_CC_Bln">
+		<method-selectors>
+		<method-selector>
+			<script language="beanshell"><![CDATA[groups.containsKey("Regression") && groups.containsKey("Borrower")]]>
+			</script>
+		</method-selector>
+	</method-selectors>
+		<classes>
+				<class name="bln.test.automation.borrower.BorrowerTestScripts" />
+		</classes>
+	</test>
+</suite>
+
+
+
